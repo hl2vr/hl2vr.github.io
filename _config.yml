@@ -13,16 +13,22 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: "Half-Life 2: VR"
+email: team@halflife2vr.com
+name: Source VR Mod Team
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Half Life 2: VR is a third-party mod for the 2004 PC gaming classic by
+  Valve Software. It allows players to experience the world of Half Life 2
+  in virtual reality.
 twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
-search: true
+github_username: hl2vr
+minimal_mistakes_skin: dark
+locale: en
+search: false
+
+url: "https://halflife2vr.com"
+repository: "hl2vr/website"
+logo: "/assets/images/game.ico"
 
 # Build settings
 markdown: kramdown
@@ -58,34 +64,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Source VR Mod Team"
+  avatar : "/assets/images/game.ico"
+  bio    : "We are a group of VR enthusiasts working on bringing Half-Life 2 to VR."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://halflife2vr.com"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Steam"
+      icon: "fab fa-fw fa-steam"
+      url: "https://store.steampowered.com/app/658920/HalfLife_2_VR/"
+    - label: "Reddit"
+      icon: "fab fa-fw fa-reddit"
+      url: "https://reddit.com/hlvr/"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "http://flat2vr.com/"
 
 defaults:
   # _posts
@@ -94,7 +91,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -105,7 +102,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
