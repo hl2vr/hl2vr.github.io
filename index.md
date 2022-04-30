@@ -14,10 +14,11 @@ header:
       url: "http://flat2vr.com"
 
 feature_row:
-  - image_path: /assets/images/capsule_616x353.jpg
-    title: A classic reimagined for VR
+  - image_path: https://img.youtube.com/vi/dnScA3oqagA/0.jpg
+    title: VoodooDE
+    url: https://www.youtube.com/watch?v=dnScA3oqagA
     excerpt: >-
-      Experience a video game classic reimagined for VR, etc. pp.
+      Check out footage recorded by VoodooDE.
   - image_path: /assets/images/capsule_616x353.jpg
     title: Immersive motion controls
     excerpt: >-
@@ -34,10 +35,15 @@ Half Life 2: VR is a third-party mod for the 2004 PC gaming classic by Valve Sof
 
 Coming "soon" to Steam, free to all owners of Half-Life 2.
 
-This website is a work in progress.
+The mod is currently going through a private playtest and expected to be publically
+released some time later this year.
+
+In the meanwhile, you can check out some footage from the playtest from our Youtube friends:
+
+{% include video provider="youtube" id="Uy0Z4GnDdus" %}
 
 {% include feature_row %}
 
-Want to see what it looks and plays like? Here is an early preview of the gameplay:
 
-{% include video provider="youtube" id="Nybiex_D6B0" %}
+
+
