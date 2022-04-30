@@ -13,22 +13,16 @@ header:
     - label: "Discord"
       url: "http://flat2vr.com"
 
-feature_row:
-  - image_path: /assets/images/capsule_616x353.jpg
-    title: About the mod
-    url: /about/
-    excerpt: >-
-      Learn more about the mod and its development team.
-  - image_path: /assets/images/capsule_616x353.jpg
-    title: Frequently Asked Questions
-    url: /faq/
-    excerpt: >-
-      Check out our frequently asked questions.
+gallery:
+  - image_path: https://img.youtube.com/vi/dnScA3oqagA/0.jpg
+    title: VoodooDE VR
+    url: https://www.youtube.com/watch?v=dnScA3oqagA
+  - image_path: https://img.youtube.com/vi/pLYucJ93GeM/0.jpg
+    title: Gamertag VR
+    url: https://www.youtube.com/watch?v=pLYucJ93GeM
   - image_path: https://img.youtube.com/vi/Uy0Z4GnDdus/0.jpg
-    title: Ingame footage
-    url: /footage/
-    excerpt: >-
-      Watch some ingame footage recorded by our Youtube friends to get an idea what to expect.
+    title: Beardo Benjo
+    url: https://www.youtube.com/watch?v=Uy0Z4GnDdus
 ---
 
 *Rise and shine, Mr Freeman. Rise… and shine.*
@@ -40,4 +34,8 @@ Coming "soon" to Steam, free to all owners of Half-Life 2.
 The mod is currently going through a private playtest and expected to be publically
 released some time later this year.
 
-{% include feature_row %}
+Here you can watch some actual footage recorded by our Youtube friends:
+
+{% include video provider="youtube" id="Uy0Z4GnDdus" %}
+
+{% include gallery %}
