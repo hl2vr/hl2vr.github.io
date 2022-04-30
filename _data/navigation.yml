@@ -1,6 +1,4 @@
 main:
-  - title: "Features"
-    url: /features/
   - title: "FAQ"
     url: /faq/
   - title: "About"

@@ -6,8 +6,8 @@ header:
   overlay_image: /assets/images/page_bg_raw.jpg
   overlay_filter: 0.5
   actions:
-    - label: "Steam"
-      url: "https://store.steampowered.com/app/658920/HalfLife_2_VR/"
+    #- label: "Steam"
+    #  url: "https://store.steampowered.com/app/658920/HalfLife_2_VR/"
     - label: "Reddit"
       url: "https://reddit.com/hlvr/"
     - label: "Discord"

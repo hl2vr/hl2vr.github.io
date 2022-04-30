@@ -27,7 +27,7 @@ locale: en
 search: false
 
 url: "https://halflife2vr.com"
-repository: "hl2vr/website"
+repository: "hl2vr/hl2vr.github.io"
 logo: "/assets/images/game.ico"
 
 # Build settings
@@ -74,9 +74,9 @@ author:
 
 footer:
   links:
-    - label: "Steam"
-      icon: "fab fa-fw fa-steam"
-      url: "https://store.steampowered.com/app/658920/HalfLife_2_VR/"
+    #- label: "Steam"
+    #  icon: "fab fa-fw fa-steam"
+    #  url: "https://store.steampowered.com/app/658920/HalfLife_2_VR/"
     - label: "Reddit"
       icon: "fab fa-fw fa-reddit"
       url: "https://reddit.com/hlvr/"
