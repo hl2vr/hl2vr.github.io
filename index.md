@@ -14,19 +14,21 @@ header:
       url: "http://flat2vr.com"
 
 feature_row:
-  - image_path: https://img.youtube.com/vi/dnScA3oqagA/0.jpg
-    title: VoodooDE
-    url: https://www.youtube.com/watch?v=dnScA3oqagA
-    excerpt: >-
-      Check out footage recorded by VoodooDE.
   - image_path: /assets/images/capsule_616x353.jpg
-    title: Immersive motion controls
+    title: About the mod
+    url: /about/
     excerpt: >-
-      The game controls have been redesigned for VR motion controllers.
+      Learn more about the mod and its development team.
   - image_path: /assets/images/capsule_616x353.jpg
     title: Frequently Asked Questions
+    url: /faq/
     excerpt: >-
       Check out our frequently asked questions.
+  - image_path: https://img.youtube.com/vi/Uy0Z4GnDdus/0.jpg
+    title: Ingame footage
+    url: /footage/
+    excerpt: >-
+      Watch some ingame footage recorded by our Youtube friends to get an idea what to expect.
 ---
 
 *Rise and shine, Mr Freeman. Rise… and shine.*
@@ -38,12 +40,4 @@ Coming "soon" to Steam, free to all owners of Half-Life 2.
 The mod is currently going through a private playtest and expected to be publically
 released some time later this year.
 
-In the meanwhile, you can check out some footage from the playtest from our Youtube friends:
-
-{% include video provider="youtube" id="Uy0Z4GnDdus" %}
-
 {% include feature_row %}
-
-
-
-
