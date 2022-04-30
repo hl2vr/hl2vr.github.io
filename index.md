@@ -39,3 +39,9 @@ Here you can watch some actual footage recorded by our Youtube friends:
 {% include video provider="youtube" id="Uy0Z4GnDdus" %}
 
 {% include gallery %}
+
+Our developer cabalistic also did his own test playthrough of the entire game. Some
+excerpts of these can be seen below. Note that those playthroughs were recorded on partly
+older builds, so some of the issues visible in the build are already fixed :)
+
+{% include video provider="youtube" id="UsYFmf99wvY" %}
