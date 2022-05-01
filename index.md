@@ -20,9 +20,9 @@ gallery:
   - image_path: https://img.youtube.com/vi/pLYucJ93GeM/0.jpg
     title: Gamertag VR
     url: https://www.youtube.com/watch?v=pLYucJ93GeM
-  - image_path: https://img.youtube.com/vi/Uy0Z4GnDdus/0.jpg
-    title: Beardo Benjo
-    url: https://www.youtube.com/watch?v=Uy0Z4GnDdus
+  - image_path: https://img.youtube.com/vi/LHPEbfZg-Q4/0.jpg
+    title: Paradise Decay
+    url: https://www.youtube.com/watch?v=LHPEbfZg-Q4
 ---
 
 *Rise and shine, Mr Freeman. Rise… and shine.*
