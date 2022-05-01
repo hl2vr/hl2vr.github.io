@@ -40,6 +40,8 @@ either smooth or in fixed intervals (snap turns).
 There is currently no teleport movement available, and it is unclear if it will
 become a viable option in the future.
 
+---
+
 *Is left-handed mode supported?*
 
 Yes! You can configure the dominant hand, which determines the hand that is holding
@@ -47,6 +49,8 @@ weapons. It will also swap the control scheme accordingly, so that by default mo
 is on the off hand whereas turning is on the primary hand. If you would like to hold
 your weapons in the left hand while still moving with the left stick, you will have the
 option to configure a custom SteamVR controller binding to make that happen.
+
+---
 
 *How will you handle the vehicle sections? I don't think I can stomach them in VR.*
 
