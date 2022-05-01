@@ -79,7 +79,7 @@ footer:
     #  url: "https://store.steampowered.com/app/658920/HalfLife_2_VR/"
     - label: "Reddit"
       icon: "fab fa-fw fa-reddit"
-      url: "https://reddit.com/hlvr/"
+      url: "https://reddit.com/r/hlvr/"
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
       url: "http://flat2vr.com/"

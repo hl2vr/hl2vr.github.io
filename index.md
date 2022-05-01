@@ -9,7 +9,7 @@ header:
     #- label: "Steam"
     #  url: "https://store.steampowered.com/app/658920/HalfLife_2_VR/"
     - label: "Reddit"
-      url: "https://reddit.com/hlvr/"
+      url: "https://reddit.com/r/hlvr/"
     - label: "Discord"
       url: "http://flat2vr.com"
 
