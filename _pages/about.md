@@ -27,7 +27,11 @@ the public.
 
 * Adoral84
 * EcstaticalEcstatic
+* highflex
+* marulu
 * NightStorm1000
+* petes117
+* streetrat
 * Vingt-2
 
 ## Additional content
