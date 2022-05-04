@@ -58,3 +58,12 @@ Right now, the vehicle rides do indeed require strong VR legs. However, we inten
 offer various options to make them more comfortable, ranging from a simple
 motion-triggered vignette to putting vehicle rides on a virtual 2D screen, so that
 everyone has a chance to get through them at the level of (dis-)comfort they can handle.
+
+---
+
+*Will Episode 1 and 2 be playable in VR?*
+
+Eventually. Right now, we are concentrating on the base game and are working hard to
+make it fully playable and get an initial public release out of the door. Once that's
+happened and the first inevitable influx of bug reports have been processed, we will
+slowly move our attention to the episodes and bring them to VR.

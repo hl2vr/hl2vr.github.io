@@ -13,35 +13,67 @@ header:
     - label: "Discord"
       url: "http://flat2vr.com"
 
-gallery:
-  - image_path: https://img.youtube.com/vi/dnScA3oqagA/0.jpg
-    title: VoodooDE VR
-    url: https://www.youtube.com/watch?v=dnScA3oqagA
-  - image_path: https://img.youtube.com/vi/pLYucJ93GeM/0.jpg
-    title: Gamertag VR
-    url: https://www.youtube.com/watch?v=pLYucJ93GeM
-  - image_path: https://img.youtube.com/vi/LHPEbfZg-Q4/0.jpg
-    title: Paradise Decay
-    url: https://www.youtube.com/watch?v=LHPEbfZg-Q4
+intro:
+  - excerpt: >-
+      *Rise and shine, Mr. Freeman. Rise... and shine.*
+
+feature_row:
+  - image_path: /assets/images/feature_row/roomscale.jpg
+    alt: "Features"
+    title: "Roomscale VR"
+    excerpt: Move around freely, pick up and throw stuff with your hands, *be* Gordon Freeman.
+    url: "/features/#full-roomscale-vr"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/feature_row/interface.jpg
+    alt: "Intuitive weapons"
+    title: "Intuitive weapons"
+    excerpt: All weapons have been adapted to VR. Cycle through them in an intuitive Alyx-inspired weapon selection wheel.
+    url: "/features/#weapon-handling"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/feature_row/vehicles.jpg
+    alt: "Vehicle rides"
+    title: "Vehicle rides"
+    excerpt: The vehicle sections in the game can be jarring in VR. We are doing our best to make them accessible to as many people as possible.
+    url: "/features/#vehicle-rides"
+    btn_class: "btn--primary"
+
+about:
+  - image_path: /assets/images/capsule_616x353.jpg
+    alt: "About"
+    title: "About Half-Life 2: VR"
+    excerpt: >-
+      *Half-Life 2: VR* is a third-party mod for the 2004 PC gaming classic by Valve Software.
+      It is being developed by the Source VR Mod Team and will be released free of charge on
+      Steam to owners of Half-Life 2.
+    url: "/about/"
+    btn_class: "btn--primary"
+
+betatest:
+  - image_path: https://img.youtube.com/vi/Uy0Z4GnDdus/0.jpg
+    alt: "Impressions from the beta test"
+    title: "Closed beta test has begun"
+    excerpt: >-
+      On April 29th 2022, *Half-Life 2: VR* has entered closed beta-testing. We are now working hard to
+      iron out as many of the kinks and issues that our beta testers will discover to get the game
+      ready for a public release. Meanwhile, a few of our friends on Youtube have published their
+      initial impressions of the mod.
+    url: "/news/first-impressions-from-the-beta/"
+    btn_class: "btn--primary"
 ---
 
-*Rise and shine, Mr Freeman. Rise… and shine.*
+{% include feature_row id="intro" type="center" %}
 
 Half Life 2: VR is a third-party mod for the 2004 PC gaming classic by Valve Software. It allows players to experience the world of Half Life 2 in virtual reality.
 
-Coming "soon" to Steam, free to all owners of Half-Life 2.
+Coming 2022 to Steam, free to all owners of Half-Life 2.
 
 The mod is currently going through a private playtest and expected to be publically
-released some time later this year.
+released later this year.
 
-Here you can watch some actual footage recorded by our Youtube friends:
+---
 
-{% include video provider="youtube" id="Uy0Z4GnDdus" %}
+{% include feature_row %}
 
-{% include gallery %}
+{% include feature_row id="about" type="left" %}
 
-Our developer cabalistic also did his own test playthrough of the entire game. Some
-excerpts of these can be seen below. Note that those playthroughs were recorded on partly
-older builds, so some of the issues visible in the build are already fixed :)
-
-{% include video provider="youtube" id="UsYFmf99wvY" %}
+{% include feature_row id="betatest" type="right" %}
