@@ -57,8 +57,9 @@ betatest:
       iron out as many of the kinks and issues that our beta testers will discover to get the game
       ready for a public release. Meanwhile, a few of our friends on Youtube have published their
       initial impressions of the mod.
-    url: "/news/first-impressions-from-the-beta/"
+    url: "https://www.youtube.com/watch?v=Uy0Z4GnDdus"
     btn_class: "btn--primary"
+    btn_label: "Youtube"
 ---
 
 {% include feature_row id="intro" type="center" %}
