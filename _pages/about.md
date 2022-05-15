@@ -17,15 +17,16 @@ the public.
 ## The Source VR Mod Team
 
 * WormSlayer (Team Lead, Lead Artist)
-* [Holger "cabalistic" Frydrych](https://github.com/fholger) (Lead Programmer)
-* [Simon "DrBeef" Brown](https://github.com/DrBeef) (Additional Programming)
+* [cabalistic (aka fholger)](https://github.com/fholger) (Lead Programmer)
 * JosephtheKP (Models & Textures)
 * Mavis (Mapping)
 * fretfingers (Audio)
+* Gabe/Fox (Animations)
 
 ## Past contributors
 
 * Adoral84
+* [DrBeef](https://github.com/DrBeef)
 * EcstaticalEcstatic
 * highflex
 * marulu
