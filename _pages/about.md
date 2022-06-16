@@ -18,10 +18,13 @@ the public.
 
 * WormSlayer (Team Lead, Lead Artist)
 * [cabalistic (aka fholger)](https://github.com/fholger) (Lead Programmer)
-* JosephtheKP (Models & Textures)
+* nyctomatic (Models & Textures)
 * Mavis (Mapping)
 * fretfingers (Audio)
 * Gabe/Fox (Animations)
+* AugustCoder (Programming)
+* Markyparky (Programming)
+* HigherFlyer (Programming)
 
 ## Past contributors
 
