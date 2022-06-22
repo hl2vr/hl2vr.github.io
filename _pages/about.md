@@ -23,7 +23,6 @@ the public.
 * fretfingers (Audio)
 * Gabe/Fox (Animations)
 * AugustCoder (Programming)
-* Markyparky (Programming)
 * HigherFlyer (Programming)
 
 ## Past contributors
@@ -32,6 +31,7 @@ the public.
 * [DrBeef](https://github.com/DrBeef)
 * EcstaticalEcstatic
 * highflex
+* Markyparky
 * marulu
 * NightStorm1000
 * petes117
@@ -51,4 +51,3 @@ the public.
 * JimRooney
 * Optimumbox
 * RavMahov
-* ShotgunnerFox
