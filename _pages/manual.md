@@ -22,6 +22,7 @@ want movement to be on the left stick, you will have to customize the SteamVR co
 
 ![Vive wands](/assets/images/controls/Controls-Vive.png)
 
+![WMR controllers](/assets/images/controls/Controls-WMR.png)
 
 #### Movement
 
