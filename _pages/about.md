@@ -24,6 +24,7 @@ the public.
 * Gabe/Fox (Animations)
 * AugustCoder (Programming)
 * HigherFlyer (Programming)
+* Markyparky (Programming)
 
 ## Past contributors
 
@@ -31,7 +32,6 @@ the public.
 * [DrBeef](https://github.com/DrBeef)
 * EcstaticalEcstatic
 * highflex
-* Markyparky
 * marulu
 * NightStorm1000
 * petes117
@@ -47,6 +47,7 @@ the public.
 
 * Demez
 * EchoSmoker
+* elliotttate
 * Inimitable
 * JimRooney
 * Optimumbox
