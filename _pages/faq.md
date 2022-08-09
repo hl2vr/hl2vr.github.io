@@ -31,6 +31,17 @@ So far, the mod has been successfully tested on Index, Quest, Vive and Pimax hea
 
 ---
 
+*Can it run standalone on the Quest?*
+
+Unfortunately no, a PC is required to play this mod. You can of course use (Air) Link or
+Virtual Desktop to play it with your Quest, but it will not run standalone.
+
+While the Quest 2 hardware might be powerful enough to run Half-Life 2, in theory, there
+is no legally available Android port of the Source engine available that would be required
+to make it run on the headset directly.
+
+---
+
 *What movement options are available?*
 
 The mod features smooth locomotion, where the direction of motion can be configured to
