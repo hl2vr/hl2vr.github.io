@@ -86,4 +86,4 @@ Public beta is launching in September 2022, free for all owners of Half-Life 2!
 
 {% include feature_row id="about" type="left" %}
 
-{% include feature_row id="betatest" type="right" %}
+{% include feature_row id="release" type="right" %}
