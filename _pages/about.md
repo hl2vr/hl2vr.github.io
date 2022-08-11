@@ -21,7 +21,7 @@ the public.
 * nyctomatic (Models & Textures)
 * Mavis (Mapping)
 * fretfingers (Audio)
-* Gabe/Fox (Animations)
+* ShotgunnerFox (Animations)
 * AugustCoder (Programming)
 * HigherFlyer (Programming)
 * Markyparky (Programming)
