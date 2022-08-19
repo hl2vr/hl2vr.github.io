@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Half-Life 2: VR"
+title: "Half-Life 2: VR Mod"
 email: team@halflife2vr.com
 name: Source VR Mod Team
 description: >- # this means to ignore newlines until "baseurl:"
-  Half Life 2: VR is a third-party mod for the 2004 PC gaming classic by
+  Half Life 2: VR Mod is a third-party mod for the 2004 PC gaming classic by
   Valve Software. It allows players to experience the world of Half Life 2
   in virtual reality.
 twitter_username: username
@@ -28,7 +28,7 @@ search: false
 
 url: "https://halflife2vr.com"
 repository: "hl2vr/hl2vr.github.io"
-logo: "/assets/images/game.ico"
+logo: "/assets/images/hl2vr_logo.png"
 
 # Build settings
 markdown: kramdown
