@@ -74,9 +74,9 @@ author:
 
 footer:
   links:
-    #- label: "Steam"
-    #  icon: "fab fa-fw fa-steam"
-    #  url: "https://store.steampowered.com/app/658920/HalfLife_2_VR/"
+    - label: "Steam"
+      icon: "fab fa-fw fa-steam"
+      url: "https://store.steampowered.com/app/658920/HalfLife_2_VR/"
     - label: "Reddit"
       icon: "fab fa-fw fa-reddit"
       url: "https://reddit.com/r/hlvr/"

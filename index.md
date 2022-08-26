@@ -6,8 +6,8 @@ header:
   overlay_image: /assets/images/page_bg_raw.jpg
   overlay_filter: 0.5
   actions:
-    #- label: "Steam"
-    #  url: "https://store.steampowered.com/app/658920/HalfLife_2_VR/"
+    - label: "Steam"
+      url: "https://store.steampowered.com/app/658920/HalfLife_2_VR/"
     - label: "Reddit"
       url: "https://reddit.com/r/hlvr/"
     - label: "Discord"
@@ -64,21 +64,20 @@ betatest:
 release:
   - image_path: /assets/images/feature_row/release.jpg
     alt: "Release announcement"
-    title: "Public beta will launch in September 2022"
+    title: "Public beta will launch September 16th, 2022"
     excerpt: >-
-      Good news - *Half-Life 2: VR Mod* will be released as a public beta in September 2022! Unfortunately,
-      it may not make it onto Steam. Read all the details and watch our launch trailer in the full
-      announcement.
-    url: "/news/release-in-september-maybe-not-on-steam"
+      Great news - *Half-Life 2: VR Mod* will be released as a public beta on September 16th, 2022! It will be available on Steam free to any owners of the original *Half-Life 2*.
+      Check out our Steam page right now to wishlist! :)
+    url: "https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/"
     btn_class: "btn--primary"
-    btn_label: "Announcement"
+    btn_label: "Steam page"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 Half-Life 2: VR Mod is a third-party mod for the 2004 PC gaming classic by Valve Software. It allows players to experience the world of Half Life 2 in virtual reality.
 
-Public beta is launching in September 2022, free for all owners of Half-Life 2!
+Public beta is launching September 16th, 2022, on Steam, free for all owners of Half-Life 2!
 
 ---
 
