@@ -19,8 +19,8 @@ on Steam.
 
 *When will it be available?*
 
-"Soon". The mod is currently undergoing a closed playtest. We are targeting a 2022
-public release, fingers crossed!
+Soon! The mod is currently undergoing a closed playtest. The public beta release is
+scheduled for September 16th, 2022. Go wishlist it on [Steam](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/).
 
 ---
 
