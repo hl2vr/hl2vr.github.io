@@ -91,6 +91,23 @@ slowly move our attention to the episodes and bring them to VR.
 
 ---
 
+*Is this mod compatible with Black Mesa?*
+
+No. We agree that Black Mesa would be epic in VR, but that would have to be a whole new
+project made by, or at least in collaboration with, the Black Mesa team.
+
+---
+
+*Is Half-Life 2: VR compatible with other mods?*
+
+To a limited degree. In general, custom maps and campaigns as well as asset mods like
+texture and model mods are expected to work, although we cannot give any guarantees for
+any individual mod. Any mod that includes custom code or custom weapons, however, is
+incompatible and would require to be ported to the VR mod, specifically. In general, if
+the mod includes its own custom DLLs, expect it to not work.
+
+---
+
 *Will you make the source code for the mod available?*
 
 That is our intention. The VR mod is based on the publically available Source SDK 2013
@@ -102,16 +119,6 @@ the source code is in a releasable state and that there are no technical and leg
 preventing it from being published. While we do not expect any major issues, this process
 will require some time. The source code release will therefore happen after the initial
 public release of the mod, and there is currently no definitive timeline.
-
----
-
-*Is Half-Life 2: VR compatible with other mods?*
-
-To a limited degree. In general, custom maps and campaigns as well as asset mods like
-texture and model mods are expected to work, although we cannot give any guarantees for
-any individual mod. Any mod that includes custom code or custom weapons, however, is
-incompatible and would require to be ported to the VR mod, specifically. In general, if
-the mod includes its own custom DLLs, expect it to not work.
 
 ---
 
