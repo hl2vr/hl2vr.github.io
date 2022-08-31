@@ -12,6 +12,8 @@ header:
       url: "https://reddit.com/r/hlvr/"
     - label: "Discord"
       url: "http://flat2vr.com"
+    - label: "LambdaGeneration"
+      url: "https://community.lambdageneration.com/user/source-vr-mod-team"
 
 intro:
   - excerpt: >-
