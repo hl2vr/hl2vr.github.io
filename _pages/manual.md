@@ -9,7 +9,7 @@ The controls are fully customizable via SteamVR's controller bindings. Below we 
 explain the default bindings, but you can always make your own modifications to suit
 your needs.
 
-HL2VR aims to support both right- and left-handed players. In the options menu on the
+*Half-Life 2: VR Mod* aims to support both right- and left-handed players. In the options menu on the
 controls tab you can select which hand is your primary hand. The guide below will assume
 that the right hand is the primary hand and the left hand the off hand. If you change the
 primary hand, all controls will be swapped accordingly. For example, if you enable left-handed
@@ -120,12 +120,11 @@ To exit the vehicle, press the left stick A or X button.
 
 ## Developer options
 
-To enable the console, add `-console` to the launch options in Steam. This will bring up the console in
-the game.
+To enable the console, open the options menu and select the console button in the bottom left corner.
 
-To enable the developer menu, add `-dev` to the launch options in Steam. This will enable a special
-developer panel in the menu where you can jump to any map, give yourself any weapon and a number of
+To enable the developer menu, add `-vrdev` to the launch options in Steam. This will enable a special
+developer panel in the options menu where you can jump to any map, give yourself any weapon and a number of
 other options.
 
-*Note*: enabling either of these options will prevent the main menu from showing in the headset! You
+*Note*: using `-console` or `-dev` will prevent the main menu from showing in the headset! You
 have to actually load into a level first before you will get anything to show in your HMD.
