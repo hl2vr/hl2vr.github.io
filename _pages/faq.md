@@ -3,161 +3,212 @@ permalink: /faq/
 title: "FAQ"
 ---
 
-*Who is developing Half-Life 2: VR?*
 
-The mod is being developed by the Source VR Mod Team, a group of VR enthusiasts.
-See also [About](/about/).
+| Table of Contents  |
+| ------------- |
+| [About](#about-half-life-2-vr-mod)  |
+| [Game Features](#game-features)  | 
+| [Mod Support](#mod-support)  |
+| [Controls](#controls)  | 
 
----
+<br />
 
-*How much will it cost?*
+# About Half-Life 2: VR Mod
 
-The mod will be available free of charge. You do need to own the base game Half-Life 2
-on Steam.
+<br />
 
----
+### Who is developing HL2VR?
 
-*When will it be available?*
+It is being developed by the Source VR Mod Team, a group of VR enthusiasts.
+More information is available on the [About](/about/) page.
 
-Soon! The mod is currently undergoing a closed playtest. The public beta release is
-scheduled for September 16th, 2022. Go wishlist it on [Steam](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/).
+<br />
 
----
+### How can I download and install HL2VR?
 
-*What headsets are supported?*
+It will be released on Steam, so that installation will work like any other
+game you own on Steam. You will need to own the base Half-Life 2 game on Steam.
 
-The mod is targeting SteamVR, so any headset supported by SteamVR should be good to go.
-So far, the mod has been successfully tested on Index, Quest, Vive and Pimax headsets.
+<br />
 
----
+### How much will HL2VR cost?
 
-*Can it run standalone on the Quest?*
+It will be available free of charge. You will need to own the base Half-Life 2 game on Steam.
 
-Unfortunately no, a PC is required to play this mod. You can of course use (Air) Link or
-Virtual Desktop to play it with your Quest, but it will not run standalone.
+<br />
 
-While the Quest 2 hardware might be powerful enough to run Half-Life 2, in theory, there
+### When will it be available?
+
+HL2VR is currently undergoing a closed playtest.
+The public beta release is scheduled for September 16th, 2022.
+
+You can wishlist it on [Steam](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/)!
+
+<br />
+
+### What headsets are supported?
+
+HL2VR is targeting SteamVR, so any headset supported by SteamVR should be good to go.
+So far, it has been successfully tested on Index, Quest, Vive, and Pimax headsets.
+
+<br />
+
+### Can it run standalone on the Quest?
+
+No, a PC is required to play. You can of course use Oculus Link, AirLink, or
+Virtual Desktop to play it with your Quest over a wired or wifi connection.
+
+While the Quest 2 hardware might be powerful enough to run Half-Life 2, there
 is no legally available Android port of the Source engine available that would be required
 to make it run on the headset directly.
 
----
-
-*What movement options are available?*
-
-The mod features smooth locomotion, where the direction of motion can be configured to
-either follow your head or any of the two controllers. Turning can be configured to be
-either smooth or in fixed intervals (snap turns).
-
-There is currently no teleport movement available, and it is unclear if it will
-become a viable option in the future.
+<br />
 
 ---
 
-*Is left-handed mode supported?*
+<br />
 
-Yes! You can configure the dominant hand, which determines the hand that is holding
-weapons. It will also swap the control scheme accordingly, so that by default movement
-is on the off hand whereas turning is on the primary hand. If you would like to hold
-your weapons in the left hand while still moving with the left stick, you will have the
-option to configure a custom SteamVR controller binding to make that happen.
 
----
+# Game Features
 
-*How will you handle the vehicle sections? I don't think I can stomach them in VR.*
+<br />
 
-Right now, the vehicle rides do indeed require strong VR legs. However, there are some
-comfort options available to help you survive them. A classic movement vignette is
-available and can be activated for the vehicle rides. While riding the vehicles, the
-borders of your screen will be blackened, reducing your field of view and reducing the
-impact of the motion sickness. Additionally, you can choose to experience the vehicle
-rides from a 3rd person camera perspective. In this mode, the camera is following the
-vehicle at a distance and is not directly subjected to the vehicle's rapid movements
-and turns, which should reduce motion sickness dramatically. It does, however, make
-controlling the vehicles a little more awkward.
+### Will Episode 1 and 2 be supported?
+
+Yes, but not at the initial release.
+
+Right now, we are concentrating on the base game and are working hard to
+make it fully playable and get its public release out of the door. Once that's
+done (and the first inevitable influx of bug reports have been processed), we will
+slowly move our attention to the Episodes and bring them to VR.
+
+<br />
+
+### How will you handle the vehicle sections? I don't think I can stomach them in VR.
+
+The vehicle rides do indeed require strong VR legs. However, there are some
+comfort options available to help you survive them. By default, the game enables a
+"fixed horizon" mode that helps keep your view more stable even as the vehicle thrashes around.
+
+A classic movement vignette is also available and can be activated for the vehicle rides.
+While riding the vehicles, the borders of your screen will be blackened,
+reducing your field of view and reducing the impact of the motion sickness.
+
+Additionally, you can choose to experience the vehicle rides from a 3rd person camera perspective.
+In this mode, the camera follows the vehicle at a distance and is not directly subjected to
+the vehicle's rapid movements and turns, which should reduce motion sickness dramatically.
+It does, however, make controlling the vehicles a little more awkward.
 
 In the future, we may implement an additional mode where the vehicle rides are put
 on a virtual 2D screen in front of the user, so that everyone has a chance to get through
 the vehicle sections in the game. This mode would of course be less immersive than the
 current ones as it'd remove any 3D effect from the experience.
 
----
-
-*Will Episode 1 and 2 be playable in VR?*
-
-Eventually yes. Right now, we are concentrating on the base game and are working hard to
-make it fully playable and get an initial public release out of the door. Once that's
-happened and the first inevitable influx of bug reports have been processed, we will
-slowly move our attention to the episodes and bring them to VR.
+<br />
 
 ---
 
-*Is this mod compatible with Black Mesa?*
+<br />
+
+
+# Mod Support
+
+<br />
+
+### Will the Steam Workshop be supported?
+
+Yes, but not at the initial release.
+
+<br />
+
+### Is HL2VR compatible with Black Mesa?
 
 No. We agree that Black Mesa would be epic in VR, but that would have to be a whole new
 project made by, or at least in collaboration with, the Black Mesa team.
 
----
+<br />
 
-*Is Half-Life 2: VR compatible with other mods?*
+### Is HL2VR compatible with other mods?
 
-To a limited degree. In general, custom maps and campaigns as well as asset mods like
-texture and model mods are expected to work, although we cannot give any guarantees for
-any individual mod. Any mod that includes custom code or custom weapons, however, is
-incompatible and would require to be ported to the VR mod, specifically. In general, if
-the mod includes its own custom DLLs, expect it to not work.
+Yes, to a limited degree. In general, custom maps and campaigns as well as asset mods (like
+texture and model mods) are expected to work, although we cannot give any guarantees for
+any individual mod.
+Any mod that includes custom code or custom weapons, however, is incompatible and would
+require specific changes to be ported to HL2VR.
 
----
+As a rule of thumb, if the mod includes its own custom DLLs, expect it to not work.
 
-*Will you make the source code for the mod available?*
+<br />
 
-That is our intention. The VR mod is based on the publically available Source SDK 2013
+### Will you make the source code for HL2VR available?
+
+That is our intention. HL2VR is based on the publically available Source SDK 2013
 edition and can, in principle, be open sourced under the same license terms.
 
-However, given the long development history of the mod and the changes in the core team
+However, given the long development history of the project and the changes in the core team
 who worked on it over the years, we first need to do our due diligence to ensure that
 the source code is in a releasable state and that there are no technical and legal issues
 preventing it from being published. While we do not expect any major issues, this process
 will require some time. The source code release will therefore happen after the initial
 public release of the mod, and there is currently no definitive timeline.
 
----
-
-*How can we download and install Half-Life 2: VR?*
-
-Our goal is to bring the VR mod to Steam, so that installation would work like any other
-game you own on Steam. You will need to possess the base Half-Life 2 game on Steam and can
-then simply add the VR mod to your library and download it.
-
-However, the initial public beta release may not make it into Steam. If that should be the
-case, we will offer an installer that you can download and that will take care of installing
-Half-Life 2: VR. You will need to have the base Half-Life 2 game installed on your PC for the
-installer to work.
+<br />
 
 ---
 
-*How do controls work in the game?*
+<br />
+
+
+# Controls
+
+<br />
+
+### How do controls work in the game?
 
 The game will offer some hints on the required actions and buttons you need to perform certain
-actions in the game. For a comprehensive overview of the controls, check the [Manual](/manual/).
+actions in the game.
+For a comprehensive overview of the controls, check the [Manual](/manual/).
 
----
+<br />
 
-*Why did you put 'Jump' on 'Right stick up'? That seems unintuitive.*
+### What movement options are available?
+
+HL2VR features smooth locomotion. The direction of motion can be configured to
+either follow your head or any of the two controllers. Turning can be configured to be
+either smooth or in fixed intervals (snap turns).
+
+There is currently no teleport movement available, and it is unclear if it will
+become a viable option in the future.
+
+<br />
+
+### Why did you put (this action) on (this button)?
 
 Unfortunately, the amount of inputs provided by most VR controllers is limited, and we have a
-selection of actions that need to be mapped to the right (primary) controller. These include
-the weapon selection menu, alt fire, eject magazine as well as jump and crouch. While these
-actions could, in theory, be bound to the left controller, as well, doing so would feel
-unintuitive or even be impossible to use properly.
+selection of actions that need to be mapped to the primary-hand controller. These include
+the weapon selection menu, primary and alt fire, eject magazine, as well as jump and crouch.
+While some of these actions could, in theory, be bound to the left controller, doing so feels
+unintuitive or in some cases would be impossible to use properly.
 
 As a consequence, we have no choice but to bind some of these actions to the up/down movement
 on the joystick. After some experimentation, it was found that neither the weapon selection menu
 nor alt fire were a good candidate to place on the stick as the sticks have a higher accidental
 misfire probability. Putting jump on the stick is less harmful in most situations. Additionally,
 it allows us to make the overall controls very similar to Half-Life: Alyx, which most of our
-players are probably familiar with. And it also means that both sticks are now fully devoted
-to controlling movement, with the right stick controlling turning, jumping and crouching.
+players are probably familiar with. It also means that both sticks are now fully devoted
+to controlling movement, with the right stick controlling turning, jumping, and crouching.
 
 While it may take some getting used to initially, the vast majority of our playtesters have not
-had any issues with the controls. If you still do not like the assignment, the controls are
-fully customizable via SteamVR controller bindings :)
+had any issues with the controls. If you still do not like the assignments, the controls are
+fully customizable via SteamVR controller bindings!
+
+<br />
+
+### Is left-handed mode supported?
+
+Yes! You can configure the dominant hand, which determines the hand that is holding
+weapons. It will also swap the control scheme accordingly, so (by default) movement
+is on the off-hand and turning is on the primary hand.
+
+If you would like to hold your weapons in the left hand while still moving with the left stick,
+you will need to configure a custom SteamVR controller binding.
