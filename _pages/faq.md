@@ -9,6 +9,7 @@ title: "FAQ"
 | ------------- |
 | [About](#about-half-life-2-vr-mod)  |
 | [Game Features](#game-features)  | 
+| [Weapons](#weapons)  |
 | [Mod Support](#mod-support)  |
 | [Controls](#controls)  | 
 
@@ -32,27 +33,23 @@ More information is available on the [About](/about/) page.
 It will be released on Steam, so that installation will work like any other
 game you own on Steam. You will need to own the base Half-Life 2 game on Steam.
 
-<br />
-
-### How much will HL2VR cost?
-
-It will be available free of charge. You will need to own the base Half-Life 2 game on Steam.
+You can now wishlist it on [Steam](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/)!
 
 <br />
 
-### When will it be available?
+### How much will HL2VR cost, and when will it be available?
+
+It will be available free of charge to all owners of Half-Life 2 on Steam.
 
 HL2VR is currently undergoing a closed playtest.
 The public beta release is scheduled for September 16th, 2022.
-
-You can wishlist it on [Steam](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/)!
 
 <br />
 
 ### What headsets are supported?
 
 HL2VR is targeting SteamVR, so any headset supported by SteamVR should be good to go.
-So far, it has been successfully tested on Index, Quest, Vive, and Pimax headsets.
+So far, it has been successfully tested on Index, Quest, Vive, WMR, and Pimax headsets.
 
 <br />
 
@@ -67,7 +64,10 @@ to make it run on the headset directly.
 
 <br />
 
----
+### Portal? L4D? TF2? CS?
+
+Woah, woah! Let's take this one game at a time. (Portal 1 is the only other Valve
+title that is a viable option, for multiple reasons, and it won't happen for quite some time.)
 
 <br />
 
@@ -107,6 +107,36 @@ In the future, we may implement an additional mode where the vehicle rides are p
 on a virtual 2D screen in front of the user, so that everyone has a chance to get through
 the vehicle sections in the game. This mode would of course be less immersive than the
 current ones as it'd remove any 3D effect from the experience.
+
+<br />
+
+---
+
+# Weapons
+
+---
+
+### Manual reloading??
+
+Yes. All weapons support manual reloading. Partially used magazines and other ejected ammo
+can be recovered and added back into your inventory.
+
+Manual reload for the crowbar has been disabled.
+
+<br />
+
+### Two-handed weapons?
+
+Yes! Some weapons can be held two-handed to reduce recoil and spread.
+
+Some weapons require two hands to use. (For example, the shotgun needs to be pumped
+in between shots.)
+
+<br />
+
+### I want to hit things with the crowbar?
+
+Good news! You can!
 
 <br />
 
