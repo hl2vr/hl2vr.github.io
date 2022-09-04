@@ -3,6 +3,7 @@ permalink: /faq/
 title: "FAQ"
 ---
 
+<br />
 
 | Table of Contents  |
 | ------------- |
@@ -13,9 +14,11 @@ title: "FAQ"
 
 <br />
 
+---
+
 # About Half-Life 2: VR Mod
 
-<br />
+---
 
 ### Who is developing HL2VR?
 
@@ -68,10 +71,11 @@ to make it run on the headset directly.
 
 <br />
 
+---
 
 # Game Features
 
-<br />
+---
 
 ### Will Episode 1 and 2 be supported?
 
@@ -108,12 +112,9 @@ current ones as it'd remove any 3D effect from the experience.
 
 ---
 
-<br />
-
-
 # Mod Support
 
-<br />
+---
 
 ### Will the Steam Workshop be supported?
 
@@ -156,12 +157,9 @@ public release of the mod, and there is currently no definitive timeline.
 
 ---
 
-<br />
-
-
 # Controls
 
-<br />
+---
 
 ### How do controls work in the game?
 
