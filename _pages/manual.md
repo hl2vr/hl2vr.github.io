@@ -40,7 +40,8 @@ Enabling this option does not affect any other gameplay.
 This option is available to simplify the reloading process. (See the [Controls section](#controls)
 for more detail on the default manual reloading procedure.)  
 When Quick Reload is enabled, a player can press the [Eject Magazine button](#controls) then drop their
-weapon hand to their waist, pointed down to the ground. The weapon will automatically reload the relevant ammo.
+weapon hand to their waist, pointed down to the ground.
+After a moment, the weapon will automatically reload the relevant ammo.
 
 <br />
 
@@ -58,11 +59,10 @@ or use community bindings another user has created and shared.
 
 ### Default Controls
 
-*Half-Life 2: VR Mod* aims to support both right- and left-handed players. In the Options menu on the
-Controls tab you can select which hand is your dominant (primary) hand. If you change the
-primary hand, all controls will be swapped accordingly. For example, if you enable left-handed
-mode, then you will hold weapons in your left hand and move with the right stick. If you still
-want movement to be on the left stick, you will have to customize the SteamVR controller bindings.
+*Half-Life 2: VR Mod* aims to support both right- and left-handed players. If you change the
+primary hand, all controls will be swapped accordingly.  
+For example, if you enable left-handed mode, then you will hold weapons in your left hand and move with the right stick.
+If you still want movement to be on the left stick, you will have to customize the SteamVR controller bindings.
 
 **The guide below will assume that the right hand is the primary hand and the left hand the off hand.**
 
@@ -91,13 +91,13 @@ Use this option to select your primary hand. By default, this is set to right ha
 ### Movement and movement direction
 
 The left (off-hand) stick controls your movement through the world. Press the stick in
-to activate Sprint; Sprint will remain active until you fully let go of the stick again.  
-Users with capacitive controllers, such as the Quest and Index, may need to briefly remove their thumb
-from the stick as well.
+to activate Sprint; Sprint will remain active until you fully let go of the stick again.
+(Users with capacitive controllers, such as the Quest and Index, may need to briefly remove their thumb
+from the stick as well.)
 
 You can freely move around in the real world. Your roomscale position will be reflected in the game.
 
-There is currently no teleport movement option available, and it's currently unknown if it will come in a
+There is currently no teleport movement option available, and it's unknown if it will come in a
 future update. For now, you can active a motion vignette in the [Comfort options](#comfort-options) if you need it.
 
 You can artificially turn with the right (primary hand) stick. By default, snap turn is active with a 30°
@@ -112,17 +112,16 @@ Jump by moving the right stick up. Jumping in real life is not recommended.
 
 ### World interactions and Item pickup mode
 
-You can grab items in each hand by pressing the grip button (or squeezing the Index controllers).
-Release grip to let go. Grabbable items will be highlighted in the world when you are close enough
-to pick them up. By default, you need to pick up consumables like health or battery packs and weapons
+You can grab items in each hand by pressing the Grip button (or squeezing the Index controllers).
+Release Grip to let go. Grabbable items will be highlighted in the world when you are close enough
+to pick them up.
+
+By default, you need to pick up consumables like health or battery packs and weapons
 to consume them. If you prefer the automatic pickup from the flat game, you can change this in
-the controls options.
+the Options menu.
 
-The trigger on each controller is your "Use" key. Use it to interact with buttons, levers, NPCs
-and more. Your hand needs to be close to your interaction target.
-
-You can press trigger on doors to open them automatically. Most doors can alternatively be grabbed
-to open them manually. This feature is currently experimental and still a work in progress.
+The trigger on each controller is your "Use" key. Use it to interact with buttons, levers, NPCs,
+doors, and more. Your hand needs to be close to your interaction target.
 
 <br />
 
@@ -137,13 +136,13 @@ Users may need to climb slightly higher than they are used to in the flat game; 
 are not visible but he'll still need to get them above the dismount point to stand on it. :-)
 
 If you prefer stick-based ladder climbing (similar to the flat game), you can enable this in
-the [Controls options](#controls).
+the [Comfort options](#comfort-options).
 
 <br />
 
 ### Flashlight
 
-You can activate and deactivate your flashlight by pressing either hand's trigger near or in front of
+You can activate and deactivate your flashlight by pressing either controller's Trigger near or in front of
 your head.  
 Users with inside-out tracking may have better luck activating this near the front of the head
 where the controller is more easily tracked.
@@ -163,7 +162,7 @@ Use the "Vehicle weapon aim" option to change this from main hand to head or pri
 
 Pressing the right stick in activates the airboat's headlights.
 
-To exit the vehicle, press the left stick (off-hand) A or X button.
+To exit the vehicle, press the left controller (off-hand) A or X button.
 
 <br />
 
@@ -184,8 +183,8 @@ The available weapons are shown in a hexagonal grid. Move your right hand toward
 weapon you want to equip, then let go of the right stick to close the menu.  
 
 The weapon selection menu is controlled by your hand's *position*; it is not a pointer.  
-It may take some practice, but the menu is designed so that you can quickly switch to your desired weapons blind!
-So allow yourself some time to build the necessary muscle memory :-)
+It may take some practice, but the menu is designed so that you can quickly switch to your desired weapons blind,
+so allow yourself some time to build the necessary muscle memory! :-)
 
 Once equipped, aim the weapon with your primary hand. Pull the trigger to fire the weapon.
 Some weapons have an alt-fire mode which is activated by pressing the right B key.
@@ -194,7 +193,7 @@ Some weapons have an alt-fire mode which is activated by pressing the right B ke
 
 ### Reloading
 
-To reload weapons, first press the right A key to eject the magazine (if applicable). If there is ammo
+To reload weapons, first press the right A button to eject the magazine (if applicable). If there is ammo
 left in the magazine, it will automatically be recovered into your inventory.
 
 Press and hold your off hand's Grip button near your shoulder to grab a fresh magazine.
@@ -216,8 +215,9 @@ Swinging props or weapons other than the crowbar does not currently do any damag
 ### Two-handing weapons and recoil control
 
 Some weapons - including the SMG, pulse rifle, shotgun, and crossbow - can be held with both hands.
-When the weapon is equipped, move your off hand near the handle or grab point and press and hold the Grip button to
-hold onto the weapon with your secondary hand. Holding these in both hands reduces recoil significantly,
+When the weapon is equipped, move your off hand near the handle or grab point, and press and hold the Grip button to
+hold onto the weapon with your secondary hand.  
+Holding these in both hands reduces recoil significantly,
 and is the intended way to use the weapon.
 
 When using the shotgun, you will have to pump it after every shot. To do so, you need to grip it with both hands,
@@ -226,9 +226,10 @@ then pull in your secondary hand towards your primary hand and release it again.
 To throw grenades or bugbait, press and hold the Trigger of your primary hand to arm the grenade.
 Then make a physical throwing motion with your controller and let go of the trigger at the end
 to throw the grenade.  
-It can be challenging to accurately aim the grenade throw. Press and hold the alt-fire button to enable an alternative
+It can be challenging to accurately aim a grenade throw. Press and hold the alt-fire button to enable an alternative
 throw mode. You will be presented with a visual arc that you can use to aim your throw.
-Release the B button to throw the grenade along the arc.
+Release the button to throw the grenade along the arc.  
+(This is not available for bugbait, as that button is already bound to its usual alt-fire.)
 
 <br />
 
