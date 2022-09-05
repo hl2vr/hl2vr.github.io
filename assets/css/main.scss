@@ -6,6 +6,6 @@ search: false
 @charset "utf-8";
 
 
-$x-large: 1300px;
+$x-large: 1280px;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
