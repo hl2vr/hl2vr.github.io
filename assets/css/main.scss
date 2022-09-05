@@ -7,6 +7,6 @@ search: false
 
 
 $x-large: 1400px;
-$right-sidebar-width-narrow: 0px;
+$right-sidebar-width: 0px;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
