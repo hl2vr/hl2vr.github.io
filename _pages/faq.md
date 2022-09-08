@@ -31,7 +31,8 @@ More information is available on the [About](/about/) page.
 ### How can I download and install HL2VR?
 
 It will be released on Steam, so that installation will work like any other
-game you own on Steam. You will need to own the base Half-Life 2 game on Steam.
+game you own on Steam. You will need to own the base Half-Life 2 game on Steam
+(though it does not need to be installed).
 
 You can now wishlist it on [Steam](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/)!
 
