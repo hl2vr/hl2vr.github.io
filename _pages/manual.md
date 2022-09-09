@@ -217,8 +217,7 @@ Swinging props or weapons other than the crowbar does not currently do any damag
 Some weapons - including the SMG, pulse rifle, shotgun, and crossbow - can be held with both hands.
 When the weapon is equipped, move your off hand near the handle or grab point, and press and hold the Grip button to
 hold onto the weapon with your secondary hand.  
-Holding these in both hands reduces recoil significantly,
-and is the intended way to use the weapon.
+Holding these in both hands reduces recoil significantly, and is the intended way to use the weapon.
 
 When using the shotgun, you will have to pump it after every shot. To do so, you need to grip it with both hands,
 then pull in your secondary hand towards your primary hand and release it again.
@@ -296,14 +295,31 @@ Players uncomfortable with the standard world scale can adjust it to be larger o
 
 ---
 
-HL2VR's overall performance relies *heavily* on your CPU's single-thread performance.  
-On the GPU side it is notably more demanding than the base HL2, but it is still a game from 2004. :-)
+HL2VR's overall performance relies *heavily* on your CPU's single-thread performance. Users with older
+or low-end CPUs may have a harder than expected time running at their target resolution and framerate.
+It cannot be optimized like modern games.
+(And, of course, higher framerate targets will have higher requirements.)
+
+Users should aim to have *at least* a mid-range Intel 6th gen or Ryzen 2000 series CPU.
+At least mid-range Intel 8th gen or Ryzen 3000 are recommended,
+and mid-range Intel 10th gen or Ryzen 5000 are ideal.
+*Generally* speaking, low-end models in most CPU generations may still
+struggle due to lower clock speeds (especially on older architectures).
+
+Water reflections can be disabled, but it has a fairly minimal performance impact. 
+Users with old/slow CPUs will benefit more from disabling this option.
+
+On the GPU side it is notably more demanding than the base HL2, but it is still a game from 2004.
+We have had very few complaints about GPU requirements. :-)
+
+Users with at least GTX 1060 6GB, GTX 1660, or RX 580 performance on this "GPU hierarchy" list
+should have little trouble with performance:  
+https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html
 
 MSAA is available for anti-aliasing. This can be taxing on your GPU, so set accordingly.
 4x is a good compromise.
 
-Water reflections can be disabled, but it has a fairly minimal performance impact.  
-Users with old/slow CPUs will benefit more from disabling this option.
+Of course, your SteamVR resolution scaling will also have an effect on performance.
 
 <br />
 
