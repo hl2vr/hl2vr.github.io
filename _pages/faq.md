@@ -8,10 +8,10 @@ title: "FAQ"
 | Table of Contents  |
 | ------------- |
 | [About](#about-half-life-2-vr-mod)  |
-| [Game Features](#game-features)  | 
+| [Game Features](#game-features)  |
 | [Weapons](#weapons)  |
 | [Mod Support](#mod-support)  |
-| [Controls](#controls)  | 
+| [Controls](#controls)  |
 
 <br />
 
@@ -28,7 +28,7 @@ More information is available on the [About](/about/) page.
 
 <br />
 
-### How can I download and install HL2VR?
+### How can I download and install it?
 
 It will be released on Steam, so that installation will work like any other
 game you own on Steam. You will need to own the base Half-Life 2 game on Steam
@@ -68,7 +68,7 @@ to make it run on the headset directly.
 ### Portal? L4D? TF2? CS?
 
 Woah, woah! Let's take this one game at a time. (Portal 1 is the only other Valve
-title that is a viable option, for multiple reasons, and it won't happen for quite some time.)
+title that is a viable option at this time, for multiple reasons, and it won't happen for quite some time.)
 
 <br />
 
@@ -89,15 +89,44 @@ slowly move our attention to the Episodes and bring them to VR.
 
 <br />
 
-### How will you handle the vehicle sections? I don't think I can stomach them in VR.
+### World interaction
 
-The vehicle rides do indeed require strong VR legs. However, there are some
+You can pick up and move physics objects, props, weapons, health kits, etc.
+
+An "immersive" ladder climbing mode is enabled by default. The base game climbing option
+is also available.
+
+<br />
+
+### Comfort options
+
+A standard movement vignette is available.  
+While moving, the borders of your screen will be blackened, reducing your field of view
+and reducing the impact of the motion sickness.
+
+Snap-turning  
+Artificial turning can be configured to be either smooth or in fixed intervals (snap turns).
+
+Teleport movement is unsupported  
+There is currently no teleport movement available, and it is unclear if it will
+become a viable option in the future.
+
+Seated mode  
+This mode fixes Gordon's in-game height to match the base game regardless of the player's
+headset position.
+
+World scale  
+Players uncomfortable with the standard world scale can adjust it to be larger or smaller.
+
+<br />
+
+### Are there more options for the vehicle sections?
+
+The vehicle rides require strong VR legs. However, there are some additional
 comfort options available to help you survive them. By default, the game enables a
 "fixed horizon" mode that helps keep your view more stable even as the vehicle thrashes around.
 
-A classic movement vignette is also available and can be activated for the vehicle rides.
-While riding the vehicles, the borders of your screen will be blackened,
-reducing your field of view and reducing the impact of the motion sickness.
+The movement vignette is also available and can be activated for the vehicle rides.
 
 Additionally, you can choose to experience the vehicle rides from a 3rd person camera perspective.
 In this mode, the camera follows the vehicle at a distance and is not directly subjected to
@@ -117,10 +146,15 @@ current ones as it'd remove any 3D effect from the experience.
 
 ---
 
-### Manual reloading??
+### Manual reloading?
 
-Yes. All weapons support manual reloading. Partially used magazines and other ejected ammo
+Yes, all weapons support manual reloading. Partially used magazines and other ejected ammo
 can be recovered and added back into your inventory.
+
+A "quick reload" option has been added that simplifies the process,
+for players looking for an easier reloading option.
+
+For more details, see the [Reloading section of the Manual](/manual/#reloading).
 
 Manual reload for the crowbar has been disabled.
 
@@ -128,7 +162,7 @@ Manual reload for the crowbar has been disabled.
 
 ### Two-handed weapons?
 
-Yes! Some weapons can be held two-handed to reduce recoil and spread.
+Yes! Some weapons can (and should) be held two-handed to reduce recoil and spread.
 
 Some weapons require two hands to use. (For example, the shotgun needs to be pumped
 in between shots.)
@@ -138,6 +172,8 @@ in between shots.)
 ### I want to hit things with the crowbar?
 
 Good news! You can!
+
+However, props cannot be used as melee weapons (except when used with the Gravity Gun, as usual).
 
 <br />
 
@@ -155,7 +191,7 @@ Yes, but not at the initial release.
 
 ### Is HL2VR compatible with Black Mesa?
 
-No. We agree that Black Mesa would be epic in VR, but that would have to be a whole new
+No. We agree that Black Mesa would be amazing in VR, but that would have to be a whole new
 project made by, or at least in collaboration with, the Black Mesa team.
 
 <br />
@@ -196,6 +232,7 @@ public release of the mod, and there is currently no definitive timeline.
 
 The game will offer some hints on the required actions and buttons you need to perform certain
 actions in the game.
+
 For a comprehensive overview of the controls, check the [Manual](/manual/).
 
 <br />
