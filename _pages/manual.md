@@ -37,11 +37,12 @@ Enabling this option does not affect any other gameplay.
 
 ### Quick Reload
 
-This option is available to simplify the reloading process. (See the [Controls section](#controls)
+This option is available to simplify the reloading process. (See the [Controls section](#reloading)
 for more detail on the default manual reloading procedure.)  
-When Quick Reload is enabled, a player can press the [Eject Magazine button](#controls) then drop their
+When Quick Reload is enabled, a player can press the Eject Magazine button then drop their
 weapon hand to their waist, pointed down to the ground.
 After a moment, the weapon will automatically reload the relevant ammo.
+Any unspent ammo in the previous magazine will be automatically recovered.
 
 <br />
 
@@ -193,19 +194,33 @@ Some weapons have an alt-fire mode which is activated by pressing the right B ke
 
 ### Reloading
 
-To reload weapons, first press the right A button to eject the magazine (if applicable). If there is ammo
-left in the magazine, it will automatically be recovered into your inventory.
+In the default "Manual" reload mode:  
+To reload weapons, first press the right A button to eject the magazine (if applicable).  
+When you eject the magazine, all ammo remaining in the mag is ejected with it. You can pick up (or catch) the mag
+using the Grip button and it will be instantly consumed and added back to your inventory.
+Once ejected, a magazine can't be held, only consumed.
 
-Press and hold your off hand's Grip button near your shoulder to grab a fresh magazine.
+To grab a fresh magazine from your inventory, press and hold your off-hand's Grip button near your shoulder.
 
 Bring the new magazine close to the weapon's insert point, and the magazine will be loaded.  
 Each weapon's insert point is unique. They are also subject to change during HL2VR's beta period.
+
+Some weapons, when emptied, will require additional action to chamber a round from the new magazine.  
+The pistol's slide must be Used (with the Trigger button).  
+Additional actions will be implemented over time for some of the other weapons.
+
+A "Quick Reload" option can also be enabled in the Difficulty options menu.  
+In "Quick" reload mode, when a magazine is ejected it is automatically emptied and remaining ammo is added back to your inventory.
+The weapon can then be reloaded by dropping it to your waist, aiming at the ground, and simply waiting a moment.
 
 <br />
 
 ### Melee attacks
 
 To attack with the crowbar, you need to physically swing it to damage enemies or crates.
+There is a minimum requirement on both the swing speed and distance to do damage.
+There is also a brief cooldown period between attacks.  
+This means you should make your attacks meaningful. We do not encourage waggling. :-)
 
 Swinging props or weapons other than the crowbar does not currently do any damage.
 (But that may change in a future update.)
