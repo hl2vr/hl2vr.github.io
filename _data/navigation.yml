@@ -3,5 +3,7 @@ main:
     url: /news/
   - title: "FAQ"
     url: /faq/
+  - title: "Help"
+    url: /help/
   - title: "About"
     url: /about/
