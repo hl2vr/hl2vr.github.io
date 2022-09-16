@@ -201,9 +201,12 @@ project made by, or at least in collaboration with, the Black Mesa team.
 Yes, to a limited degree. In general, custom maps and campaigns as well as asset mods (like
 texture and model mods) are expected to work, although we cannot give any guarantees for
 any individual mod.
+The HL2VR team also cannot provide any support for external mods.
+
+Custom content (such as texture mods) can go in the */Half-Life 2 VR/hlvr/custom* directory.
+
 Any mod that includes custom code or custom weapons, however, is incompatible and would
 require specific changes to be ported to HL2VR.
-
 As a rule of thumb, if the mod includes its own custom DLLs, expect it to not work.
 
 <br />
