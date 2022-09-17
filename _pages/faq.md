@@ -72,6 +72,18 @@ title that is a viable option at this time, for multiple reasons, and it won't h
 
 <br />
 
+### Can I support the SourceVR Mod Team?
+
+HL2VR is, and always will be, free of charge. Even so, a lot of time has gone into its development. If you enjoy your virtual time in City 17 and want to say thank you, consider buying us a coffee.
+
+But please, only donate if you are happy with what we have already released and are financially able and willing to do so; do not treat it as a down-payment for any future feature development or the release of the Episodes!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q5EL2IP)
+
+Alternatively, we are always happy to just hear a few kind words of your experience. :)
+
+<br />
+
 ---
 
 # Game Features
