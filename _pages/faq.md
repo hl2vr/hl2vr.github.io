@@ -78,7 +78,7 @@ HL2VR is, and always will be, free of charge. Even so, a lot of time has gone in
 
 But please, only donate if you are happy with what we have already released and are financially able and willing to do so; do not treat it as a down-payment for any future feature development or the release of the Episodes!
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q5EL2IP)
+https://ko-fi.com/sourcevrmodteam
 
 Alternatively, we are always happy to just hear a few kind words of your experience. :)
 
