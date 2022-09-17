@@ -154,8 +154,11 @@ where the controller is more easily tracked.
 
 To enter a vehicle, press either hand's trigger (while not holding anything) near the vehicle.
 
-You can accelerate and steer your vehicles with the left (off-hand) stick. Press the left stick in to activate
-the jeep's boost. The right A button activates the jeep's handbrake.
+You can accelerate and steer your vehicles with the left (off-hand) stick.  
+Press the left stick in to activate the jeep's boost. (Due to a quirk in SteamVR bindings,
+controllers with capacitive sticks will require users to *completely let go of the stick
+and remove their thumb* in order to disengage the boost.)  
+The right A button activates the jeep's handbrake.
 
 If the vehicle is equipped with a weapon, use your primary hand to aim the weapon and press the trigger
 to fire it. If available, you can activate alt fire via the right B button.  
