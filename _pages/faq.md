@@ -32,6 +32,7 @@ More information is available on the [About](/about/) page.
 
 It will be released on Steam, so that installation will work like any other game you own on Steam.
 You will need to own the standard Half-Life 2 game on Steam (though it does not need to be installed; HL2VR will include everything you need).
+**Having the game available through Steam's Family Share is not enough - your Steam account needs to own Half-Life 2.**
 
 If you meet that requirement, HL2VR itself is available free of charge!
 
