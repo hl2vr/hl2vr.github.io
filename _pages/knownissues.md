@@ -18,9 +18,14 @@ Hi all,
 
 We are aware of several different bugs (or non-bug *reasons*) some users are having trouble installing the game via Steam, or the game not launching once installed. If you are one of those users, please see the following list for the current status and/or any recommendations.
 
-**Not all of these issues have solutions or workarounds yet. We will keep this updated as we learn more.**
+<br />
 
-**This is also - intentionally - an incomplete list.**  
+### **Not all of these issues have solutions or workarounds yet.**  
+We will keep this updated as we learn more.
+
+<br />
+
+### This is intentionally an incomplete list.  
 It's being updated over time, and only covers the biggest *game-breaking* issues we've come across.
 It does not include smaller bugs or feedback on the game. (Please see [the Help page](help/#reporting-bugs) and bug tracker for those!)
 
@@ -74,7 +79,8 @@ We've also seen cases where it takes a bit of time after purchasing Half-Life 2 
 
 Known issue. Details on solution/workaround coming soon.
 
-In the meantime, if you have **OculusKiller** (or any similar app) running, HL2VR will not launch correctly. A fix for this is being tested now.
+In the meantime, if you have **OculusKiller** (or any similar app) running, HL2VR will not launch correctly.
+A fix for this is being tested now and will be deployed in an upcoming update.
 
 <br />
 
