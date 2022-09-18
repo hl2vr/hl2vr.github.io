@@ -117,9 +117,11 @@ Details on how to do that here: [Link](https://www.windowsdigitals.com/force-chr
 
 <br />
 
-### Error: "Engine Error - Failed to initialize OpenVR"
+### Error: "Engine Error - Failed to initialize OpenVR", or "Could not load library client"
 
 SteamVR is required to run HL2VR. Please install it via Steam: [SteamVR](https://store.steampowered.com/app/250820/SteamVR/)
+
+SteamVR also needs to be running to play HL2VR.
 
 <br />
 
