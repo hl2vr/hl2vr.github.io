@@ -5,16 +5,7 @@ title: "Known Issues (and some solutions)"
 
 <br />
 
-| Table of Contents  |
-| ------------- |
-| [Step 1](#step-1-for-every-issue)  |
-| [Downloading or Installing issues](#downloading--installing-issues  )  |
-| [Launching or crash issues](#launching-or-immediate-crash-issues)  |
-| [Less common issues](#less-common-issues)   |
-
-<br />
-
-Hi all,
+### Hi all,
 
 We are aware of several different bugs (or non-bug *reasons*) some users are having trouble installing the game via Steam, or the game not launching once installed. If you are one of those users, please see the following list for the current status and/or any recommendations.
 
@@ -28,6 +19,15 @@ We will keep this updated as we learn more.
 ### This is intentionally an incomplete list.  
 It's being updated over time, and only covers the biggest *game-breaking* issues we've come across.
 It does not include smaller bugs or feedback on the game. (Please see [the Help page](help/#reporting-bugs) and bug tracker for those!)
+
+<br />
+
+| Table of Contents  |
+| ------------- |
+| [Step 1](#step-1-for-every-issue)  |
+| [Downloading or Installing issues](#downloading--installing-issues  )  |
+| [Launching or crash issues](#launching-or-immediate-crash-issues)  |
+| [Less common issues](#less-common-issues)   |
 
 <br />
 
