@@ -20,7 +20,9 @@ We are aware of several different bugs (or non-bug *reasons*) some users are hav
 
 **Not all of these issues have solutions or workarounds yet. We will keep this updated as we learn more.**
 
-**This is also an incomplete list. It's being updated over time.**
+**This is also - intentionally - an incomplete list.**  
+It's being updated over time, and only covers the biggest *game-breaking* issues we've come across.
+It does not include smaller bugs or feedback on the game. (Please see [the Help page](help/#reporting-bugs) and bug tracker for those!)
 
 <br />
 
@@ -78,13 +80,13 @@ In the meantime, if you have **OculusKiller** (or any similar app) running, HL2V
 
 ### Game launches on the desktop, but doesn't display in the VR headset
 
-##### Bad launch parameters
+###### Bad launch parameters
 The most common cause we see for this issue is launching the game with *-dev* or *-console* parameters.
 We recommend not using these; when enabled, the game will not display in the headset until a level is loaded.
 
 If you need cheat or console access, use the launch parameter *-vrdev* instead.
 
-##### Other causes
+###### Other causes
 
 We're aware this can happen even with no launch parameters specified. The cause is unknown.
 
