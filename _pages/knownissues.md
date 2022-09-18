@@ -42,11 +42,8 @@ I know nobody likes to hear just turn it off and on again, but you're going to t
 Please try the basics, listed below, before anything else. We've seen these solve problems for half the users who report issues.
 
 - Update Windows, Steam, and SteamVR to the latest versions.  
-Avoid using any branches for SteamVR other than the public stable release or the most recent beta.
-
 - Update your graphics drivers.  
-Don't skip this step! I know you're thinking *I'm just gonna skip this step because I know all about my updates already* but that would be a mistake!
-
+  Don't skip this step! I know you're thinking *I'm just gonna skip this step because I know all about my updates already* but that would be a mistake!
 - Close Steam and SteamVR, and reboot your device.
 
 <br />
@@ -71,59 +68,56 @@ We've also seen cases where it takes a bit of time after purchasing Half-Life 2 
 
 ---
 
-# Launching or immediate crash issues
+# Crashes or other game-breaking issues
 
 ---
 
-### A small window pops up for a moment, closes, then nothing happens
+### Game does not start, crashes immediately or hangs
 
-Known issue. Details on solution/workaround coming soon.
+Known issue that probably has a number of different causes. We have not found a definitive fix, yet, but there are a number of things you can try that have helped some of those affected:
 
-In the meantime, if you have **OculusKiller** (or any similar app) running, HL2VR will not launch correctly.
-A fix for this is being tested now and will be deployed in an upcoming update.
+- Update your graphics driver. For NVIDIA users in particular, try the [517.22 Vulkan Beta drivers](https://developer.nvidia.com/vulkan-beta-51722-windows).
+- Try different versions of SteamVR by either switching to the stable branch or to the beta branch.
+- If you are using a laptop, see if your laptop has an option to disable the integrated GPU, either via the laptop manufacturer's control software or in the BIOS. If no such option exists, try forcing both HL2VR and SteamVR to use the dedicated GPU. If you need instructions, [see here](https://www.windowsdigitals.com/force-chrome-firefox-game-to-use-nvidia-gpu-integrated-graphics/)
+- If you are using a laptop with an AMD Ryzen processor, a very particular fix that has helped a number of people is to go to the Device Manager, then disable and re-enable the integrated Radeon graphics.
 
 <br />
 
 ### Game launches on the desktop, but doesn't display in the VR headset
 
+###### Update your graphics drivers
+
+This is known to have fixed the issue for people in the past.
+
 ###### Bad launch parameters
-The most common cause we see for this issue is launching the game with *-dev* or *-console* parameters.
-We recommend not using these; when enabled, the game will not display in the headset until a level is loaded.
+If you were trying to launch the game with *-dev* or *-console* parameters, then the behaviour is actually normal. The menu will not load in the headset, you will have to load a save game or start a new game and then you will actually see something in the headset.
 
-If you need cheat or console access, use the launch parameter *-vrdev* instead.
+For that reason, we recommend not using these launch parameters. The console can actually be opened via a button from the options menu.
 
-###### Other causes
-
-We're aware this can happen even with no launch parameters specified. The cause is unknown.
+If you need cheat access, you may find the launch parameter *-vrdev* more convenient. It will add a "Developer" panel to the options menu.
 
 <br />
 
-### Game crashes immediately upon launch
-
-We're investigating what appears to be several different causes for this behavior.
-
-- Some users are able to resolve this issue by simply ensuring their Windows installation and GPU drivers are completely up to date.
-
-<br />
-
-### Game reports "waiting to exit", then hangs or closes
-
-This appears to be limited to users with mobile or integrated graphics.
-
-- Some laptop users report disabling and re-enabling the AMD Radeon integrated graphics in the Windows Device Manager resolves the issue.
-
-- Some laptop users have had success by setting hl2.exe to "High Performance" and forcing the game to use their GPU.  
-Details on how to do that here: [Link](https://www.windowsdigitals.com/force-chrome-firefox-game-to-use-nvidia-gpu-integrated-graphics/)
 
 <br />
 
 ### Error: "Engine Error - Failed to initialize OpenVR", or "Could not load library client"
 
-SteamVR is required to run HL2VR. Please install it via Steam: [SteamVR](https://store.steampowered.com/app/250820/SteamVR/)
-
-SteamVR also needs to be running to play HL2VR.
+This is typically caused by SteamVR not being installed or not running. Please install it via Steam: [SteamVR](https://store.steampowered.com/app/250820/SteamVR/) and start it before launching HL2VR.
 
 <br />
+
+### Game gets stuck in an infinite menu loop where you can't close the menu
+
+In most instances, this is caused by using the Oculus Killer app for Oculus devices. For now, you can either disable Oculus Killer, or you can switch to the "testing" branch for HL2VR on Steam, which contains a fix for this issue.
+
+<br />
+
+### Getting error: "Setup file 'gameinfo.txt' doesn't exist in subdirectory 'hl2'."
+
+Somehow your Windows install has been modified so the default action for Batch files is Edit instead of Open. For now, simply open the hlvr.bat file *(in the [your Steam directory]/Half-Life 2 VR/ folder)* with Right Click and selecting Open.
+
+You may also try to check out the "testing" branch for HL2VR in Steam, and then launching the new hl2vr.exe in the game folder.
 
 ### ...Some other issue!
 
@@ -135,12 +129,19 @@ We'll be adding more info over time.
 
 ---
 
-# Less common issues
+# Ingame issues
 
 ---
 
-### Getting error: "Setup file 'gameinfo.txt' doesn't exist in subdirectory 'hl2'."
+### I am falling half-way into the ground / I am a dwarf
 
-Somehow your Windows install has been modified so the default action for Batch files is Edit instead of Open. For now, simply open the hlvr.bat file *(in the [your Steam directory]/Half-Life 2 VR/ folder)* with Right Click and selecting Open.
+Chances are you accidentally toggled crouch. This is bound to your main hand's joystick "down" (south) direction. Simply pull the joystick down again to uncrouch.
 
-A change that can bypass this issue will be included in a future update.
+<br />
+
+### I cannot get out of the water
+
+Again, you may have accidentally crouched, which prevents you from properly jumping out of the water. Try to uncrouch.
+
+---
+
