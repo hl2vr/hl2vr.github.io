@@ -30,13 +30,14 @@ More information is available on the [About](/about/) page.
 
 ### How can I download and install it?
 
-It will be released on Steam, so that installation will work like any other game you own on Steam.
-You will need to own the standard Half-Life 2 game on Steam (though it does not need to be installed; HL2VR will include everything you need).
+You will need to own the standard **Half-Life 2** game on Steam (though it does not need to be installed; HL2VR itself will include everything you need).
 **Having the game available through Steam's Family Share is not enough - your Steam account needs to own Half-Life 2.**
+You can purchase Half-Life 2 on Steam here: [Half-Life 2](https://store.steampowered.com/app/220/HalfLife_2/)
 
-If you meet that requirement, HL2VR itself is available free of charge!
+You also must have **SteamVR** installed. You can download it (for free) from Steam here: [SteamVR](https://store.steampowered.com/app/250820/SteamVR/)
 
-You can now download and install it via [Steam](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/)!
+If you meet those requirements, **HL2VR** itself is available free of charge!
+You can  download and install it via Steam here: [Half-Life 2: VR Mod](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/)
 
 <br />
 
