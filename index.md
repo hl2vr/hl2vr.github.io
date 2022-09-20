@@ -70,7 +70,8 @@ The public beta is now live on Steam, free for all owners of Half-Life 2! Check 
 
 [Half-Life 2: VR Mod on Steam](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/)
 
-Are you enjoying *Half-Life 2* in VR and want to thank us? Buy us a coffee: [Source VR Mod Team on Ko-Fi](https://ko-fi.com/sourcevrmodteam)
+Are you enjoying *Half-Life 2* in VR and want to thank us? Buy us a coffee:
+[Donate to Source VR Mod Team on Ko-Fi](https://ko-fi.com/sourcevrmodteam)
 
 ---
 
