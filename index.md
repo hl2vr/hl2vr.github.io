@@ -45,31 +45,18 @@ about:
     title: "About Half-Life 2: VR Mod"
     excerpt: >-
       *Half-Life 2: VR Mod* is a third-party mod for the 2004 PC gaming classic by Valve Software.
-      It is being developed by the Source VR Mod Team and will be released free of charge on
+      It is being developed by the Source VR Mod Team and is available free of charge on
       Steam to owners of Half-Life 2.
     url: "/about/"
     btn_class: "btn--primary"
 
-betatest:
-  - image_path: https://img.youtube.com/vi/Uy0Z4GnDdus/0.jpg
-    alt: "Impressions from the beta test"
-    title: "Closed beta test has begun"
-    excerpt: >-
-      On April 29th 2022, *Half-Life 2: VR Mod* has entered closed beta-testing. We are now working hard to
-      iron out as many of the kinks and issues that our beta testers will discover to get the game
-      ready for a public release. Meanwhile, a few of our friends on Youtube have published their
-      initial impressions of the mod.
-    url: "https://www.youtube.com/watch?v=Uy0Z4GnDdus"
-    btn_class: "btn--primary"
-    btn_label: "Youtube"
-
 release:
   - image_path: /assets/images/feature_row/release.jpg
     alt: "Release announcement"
-    title: "Public beta will launch September 16th, 2022"
+    title: "Public beta launched September 16th, 2022"
     excerpt: >-
-      Great news - *Half-Life 2: VR Mod* will be released as a public beta on September 16th, 2022! It will be available on Steam free to any owners of the original *Half-Life 2*.
-      Check out our Steam page right now to wishlist! :)
+      Great news - *Half-Life 2: VR Mod* was released as a public beta on September 16th, 2022! It is available on Steam free to any owners of the original *Half-Life 2*.
+      Check out our Steam page right now to download it! :)
     url: "https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/"
     btn_class: "btn--primary"
     btn_label: "Steam page"
@@ -79,7 +66,11 @@ release:
 
 Half-Life 2: VR Mod is a third-party mod for the 2004 PC gaming classic by Valve Software. It allows players to experience the world of Half Life 2 in virtual reality.
 
-Public beta is launching September 16th, 2022, on Steam, free for all owners of Half-Life 2!
+The public beta is now live on Steam, free for all owners of Half-Life 2! Check it out:
+
+[Half-Life 2: VR Mod on Steam](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/)
+
+Are you enjoying *Half-Life 2* in VR and want to thank us? Buy us a coffee: [Source VR Mod Team on Ko-Fi](https://ko-fi.com/sourcevrmodteam)
 
 ---
 
