@@ -9,8 +9,8 @@ Steam to owners of Half-Life 2.
 
 *Half-Life 2: VR* was originally greenlit on Steam back in 2017. It has since gone through
 its own kind of development hell and was all but abandoned. In July 2021, a new influx of
-team members has revitalized the project, and it is now close to actually being released to
-the public.
+team members has revitalized the project, and as of September 2022 it has been released
+to the public.
 
 *Half-Life 2: VR* is a mod and is not created by or affiliated to Valve Software.
 
@@ -45,6 +45,8 @@ the public.
 
 ## Special thanks
 
+* Jan-Peter Ewert and Valve
+* the [dxvk project](https://github.com/doitsujin/dxvk)
 * Demez
 * EchoSmoker
 * elliotttate
@@ -52,6 +54,7 @@ the public.
 * JimRooney
 * Optimumbox
 * RavMahov
+* VRan
 
 # Contact us
 
