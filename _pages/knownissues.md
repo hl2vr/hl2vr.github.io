@@ -72,7 +72,7 @@ Known issue that probably has a number of different causes. We have not found a 
 - If you are using a **laptop**, see if your laptop has an option to disable the integrated GPU, either via the laptop manufacturer's control software or in the BIOS. If no such option exists, try forcing both HL2VR and SteamVR to use the dedicated GPU.  
   For instructions, [see here](https://www.windowsdigitals.com/force-chrome-firefox-game-to-use-nvidia-gpu-integrated-graphics/).
 - If you are using a laptop with an **AMD Ryzen processor**, a very particular fix that has helped a number of people is to go to the Windows Device Manager, then disable and re-enable the integrated Radeon graphics.  
-- Disable/close **MSI Afterburner and RivaTuner**
+- Disable or uninstall **MSI Afterburner and RivaTuner**. These have been known to cause issues with Vulkan games on occasion and with HL2VR in particular.
 
 ### Game launches on the desktop, but doesn't display in the VR headset
 
