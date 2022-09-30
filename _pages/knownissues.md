@@ -124,3 +124,13 @@ Chances are you accidentally toggled Crouch. This is bound to your main hand's j
 Make sure you're holding forward and jump towards a nearby ledge, and if it's low enough you'll likely hop your way out of the water within a couple seconds.
 
 Alternatively, you may have accidentally crouched, which prevents you from properly jumping out of the water. Try to uncrouch using your main hand's joystick "down" to toggle it.
+
+
+### I am getting an error "AI Disabled"
+
+This is a long-standing Source bug, and probably not something we can resolve on our end. But if you run into this, you can usually resolve it by using these two commands in the Console:
+
+ai_norebuildgraph 1  
+ai_resume  
+
+Then then reload your save (or the map).
