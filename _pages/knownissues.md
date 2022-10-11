@@ -67,7 +67,9 @@ We've also seen cases where it takes a bit of time after purchasing Half-Life 2 
 
 Known issue that probably has a number of different causes. We have not found a definitive fix, yet, but there are a number of things you can try that have helped some of those affected:
 
-- Update your graphics driver. For **NVIDIA users** in particular, try the [517.22 Vulkan Beta drivers](https://developer.nvidia.com/vulkan-beta-51722-windows).
+- Update your graphics driver to the newest available.  
+For **NVIDIA users**, version 517.22 at minimum is recommended. [Click here to search for the newest available](https://www.nvidia.com/en-us/geforce/drivers/).  
+AMD users can [click here to search for the newest available](https://www.amd.com/en/support).
 - Try different versions of **SteamVR** by either switching to the stable branch or to the beta branch.
 - If you are using a **laptop**, see if your laptop has an option to disable the integrated GPU, either via the laptop manufacturer's control software or in the BIOS. If no such option exists, try forcing both HL2VR and SteamVR to use the dedicated GPU.  
   For instructions, [see here](https://www.windowsdigitals.com/force-chrome-firefox-game-to-use-nvidia-gpu-integrated-graphics/).
