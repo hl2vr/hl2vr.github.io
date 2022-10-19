@@ -38,7 +38,8 @@ Please try the basics, listed below, before anything else. We've seen these solv
 - Update Windows, Steam, and SteamVR to the latest versions.  
 - Update your graphics drivers.  
   Don't skip this step! I know you're thinking *I'm just gonna skip this step because I know all about my updates already*, but that would be a mistake!  
-  For NVIDIA users in particular, try the [517.22 Vulkan Beta drivers](https://developer.nvidia.com/vulkan-beta-51722-windows).
+  For NVIDIA users, 517.22 at minimum is recommended. [Click here to search for the newest available](https://www.nvidia.com/en-us/geforce/drivers/).  
+  AMD users can [click here to search for the newest available](https://www.amd.com/en/support).
 - Close Steam and SteamVR, and reboot your device.
 
 <br />
