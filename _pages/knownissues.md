@@ -12,7 +12,7 @@ We will keep this updated as we learn more.
 
 ### This is intentionally an incomplete list.  
 It's being updated over time, and only covers the biggest *game-breaking* issues we've come across.
-It does not include smaller bugs or feedback on the game. (Please see [the Help page](help/#reporting-bugs) and bug tracker for those!)
+It does not include smaller bugs or feedback on the game. (Please see [the Help page](/help/#reporting-bugs) and bug tracker for those!)
 
 <br />
 
