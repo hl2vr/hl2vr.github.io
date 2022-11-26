@@ -1,4 +1,6 @@
 main:
+  - title: "Donate"
+    url: https://ko-fi.com/sourcevrmodteam
   - title: "News"
     url: /news/
   - title: "FAQ"
