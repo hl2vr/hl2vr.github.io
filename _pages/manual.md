@@ -82,11 +82,11 @@ Use this option to select your primary hand. By default, this is set to right ha
 
 ### Movement and movement direction
 
-The left (off-hand) stick controls your movement through the world. Press the stick in to activate Sprint; Sprint will remain active until you fully let go of the stick again. *(Users with capacitive controllers, such as the Quest and Index, may need to briefly remove their thumb from the stick as well.)*
+The left (off-hand) stick controls your movement through the world. Press the stick in to activate Sprint; Sprint will remain active until you return the stick to its neutral position.
 
 You can freely move around in the real world. Your roomscale position will be reflected in the game.
 
-There is currently no teleport movement option available, and due to the complexity of implementing it it's unknown if it will come in a future update. For now, you can active any of the several the [Comfort options](#comfort-options) as needed.
+There is currently no teleport movement option available, and due to the complexity of implementing it it's unknown if it will come in a future update. (We would like to, if we can make it work well.) For now, you can active any of the several the [Comfort options](#comfort-options) as needed.
 
 You can artificially turn with the right (primary hand) stick. By default, snap turn is active with a 30° turn amount. You can change the turn amount using the "Snap turn degrees" setting in the Controls options.  
 Setting this to "0 (Smooth)" will enable continuous smooth turning.
@@ -105,15 +105,14 @@ Grabbable items will be highlighted in the world when you are close enough to pi
 By default, you need to pick up consumables like health or battery packs and weapons to consume them.
 If you prefer the automatic pickup from the flat game, you can change this in the Options menu.
 
-The trigger on each controller is your "Use" key. Use it to interact with buttons, levers, NPCs, doors, and more.
-Your hand needs to be close to your interaction target.  
+The trigger on each controller is your "Use" key. Use it to interact with buttons, levers, NPCs, doors, and more. Your hand needs to be close to your interaction target.  
 The trigger on your primary hand can be used as the "Use" key only while your weapon is unequipped.
 
 <br />
 
 ### Ladders
 
-By default, "immersive" ladder climbing is active. Grab the ladder by squeezing your Grip buttons to climb the ladder.
+By default, "immersive" ladder climbing is active. Grab the ladder by squeezing your Grip button(s) to climb the ladder.
 You will need to unequip your weapon if you wish to climb with two hands. (But extremely stubborn users can find ways to climb with one.)
 
 **To dismount a ladder:** When you are at the top, look towards where you want to dismount, then release the Grip button on the controller (or both controllers). *Do not use the sticks or jump to dismount* - simply let go!  
@@ -150,19 +149,19 @@ The weapon selection menu is controlled by your hand's *position*; it is not a p
 It may take some practice, but the menu is designed so that you can quickly switch to your desired weapons blind. We recommend allowing yourself some time to build the necessary muscle memory, and it will become second nature! :-)
 
 Once equipped, aim the weapon with your primary hand. Pull the Trigger to fire the weapon.
-Some weapons have an alt-fire mode which is activated by pressing the right B button.
+Some weapons have an alt-fire mode which is activated by pressing the primary hand B button.
 
 <br />
 
 ### Reloading
 
-HL2VR sports two options for reloading. The default is the "manual" reload, in which there are a few steps to reloading a weapon. We find this to be the most satisfying, but it's also quite difficult for some users in stressful situations.
+HL2VR sports two options for reloading. The default is the "manual" reload, in which there are a few steps to reloading a weapon. We find this to be the most satisfying, but it can also be difficult for some users in stressful situations.
 For users that prefer a less complex approach, we've also included a simpler "quick" option.
 
 ###### "Manual" reload mode:  
 This option is enabled by default.
 
-To reload, first press the right A button to eject the magazine (if applicable).  
+To reload, first press the primary hand A button to eject the magazine (if applicable).  
 When you eject the magazine, all ammo remaining in the mag is ejected with it. You can pick up (or catch) the mag using the Grip button and it will be instantly consumed and added back to your inventory. You can also leave them on the ground for a while before picking them up, if you're... preoccupied elsewhere.
 Once ejected, a magazine can't be held, only consumed.
 
@@ -196,9 +195,9 @@ Swinging props or weapons other than the crowbar does not do any damage. (We wou
 
 ### Two-handing weapons and recoil control
 
-Some weapons - including the SMG, pulse rifle, shotgun, and crossbow - can be held with both hands.
-When the weapon is equipped, move your off hand near the handle or grab point, and press and hold the Grip button to hold onto the weapon with your secondary hand.  
-**Holding these in both hands reduces recoil significantly, and is the intended way to use the weapon.**
+Almost all weapons can be held with both hands. When the weapon is equipped, move your off hand near the handle or grab point, and press and hold the Grip button to hold onto the weapon with your secondary hand.  
+
+Some weapons, like the SMG and Combine Pulse Rifle, will expect you to use two hands. **Holding these in both hands reduces recoil significantly, and is the intended way to use the weapon.** Other weapons, like the pistol, can be used with two hands but its handling isn't affected much.
 
 When using the shotgun, you will have to pump it after every shot. To do so, you need to grip it with both hands, pull in your secondary hand towards your primary hand, then move it back. If both parts of the pump aren't complete, the weapon won't fire.
 
@@ -211,19 +210,18 @@ It can be challenging to accurately aim a grenade throw. **Press and hold the al
 
 ### Vehicles
 
-To enter a vehicle, press either hand's trigger (while not holding anything) near the vehicle.
+To enter a vehicle, press either hand's Trigger (while not holding anything) near the vehicle.
 
-You can accelerate and steer your vehicles with the left (off-hand) stick.  
-Press the left stick in to activate the buggy's boost. (Due to a quirk in SteamVR bindings, controllers with capacitive sticks will require users to *completely let go of the stick and remove their thumb* in order to disengage the boost.)
+You can accelerate and steer your vehicles with the left (off-hand) stick. Press the left stick in to activate the buggy's boost.
 
-Press the right A button to activate the buggy's handbrake.
+Press the primary hand A button to activate the buggy's handbrake.
 
-Press the primary-hand stick in to activate the airboat's headlights.
+Press the primary hand stick in to activate the airboat's headlights.
 
 If the vehicle is equipped with a weapon, use your primary hand to aim the weapon and press the trigger to fire it. If available, you can activate alt fire via the right B button.  
 Use the "Vehicle weapon aim" option to change this from main hand to head or off-hand tracking.
 
-To exit the vehicle, press the left controller (off-hand) A or X button.
+To exit the vehicle, press the off-hand controller A button.
 
 <br />
 
@@ -260,8 +258,7 @@ By default, "fixed horizon" is enabled. This allows your view to move with the v
 The "base game default" mode is available for roller coaster enthusiasts.
 
 The "3rd person camera" changes the vehicle rides to a 3rd person camera perspective.
-In this mode, the camera follows the vehicle at a distance and is not directly subjected to the vehicle's rapid movements and turns, which should reduce motion sickness dramatically.
-It does, however, make controlling the vehicles a little more awkward.
+In this mode, the camera follows the vehicle at a distance and is not directly subjected to the vehicle's rapid movements and turns, which should reduce motion sickness dramatically. It does, however, make controlling the vehicles a little more awkward.
 
 In the future, we may implement an additional mode where the vehicle rides are put on a virtual 2D screen in front of the user, so that everyone has a chance to get through the vehicle sections in the game.
 (This mode would of course be less immersive than the current ones, as it would remove any 3D effect from the experience.)
