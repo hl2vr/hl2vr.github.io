@@ -55,7 +55,7 @@ You can  download and install it via Steam here: [Half-Life 2: VR Mod](https://s
 
 ### Is the mod completely finished?
 
-The current release of HL2VR (released September 16th, 2022) is a *public beta*. Some features are still missing or incomplete, and you may encounter bugs.
+The current release of HL2VR is a *public beta*. Some features are still missing or incomplete, and you may encounter bugs.
 However, the game is playable from start to finish, and we do hope you will enjoy the journey!
 
 For more details on the current state of the game and what we have planned for the future, please visit our [Roadmap](/roadmap).
@@ -96,7 +96,7 @@ Portal 1 is the only other Valve title that is a viable option right now for mul
 Yes, but not at the initial release.
 
 Right now, we are concentrating on the base game and are working hard to make it fully playable and *mostly* bug-free.
-Once that's done, we will slowly move our attention to the Episodes and bring them to VR. These will be released as separate titles, similar to the standard Half-Life 2 and Episode 1/2 titles.
+As of December 2022, we are slowly moving our attention to the Episodes to bring them to VR. These will be released as separate titles, similar to the standard Half-Life 2 and Episode 1/2 titles. There is no release date at this time, but if everything goes well we expect it will be in Q1 2023.
 
 <br />
 
@@ -153,9 +153,9 @@ This mode would of course be less immersive than the current ones as it would re
 
 ### Manual reloading?
 
-Yes, all weapons support manual reloading. Partially used magazines and other ejected ammo can be recovered and added back into your inventory.
+Yes, all weapons support manual reloading. Partially used magazines and other ejected ammo are automatically recovered and added back into your inventory.
 A "quick reload" option has been added that simplifies the process, for players looking for an easier reloading option.  
-HL2VR is currently in an open beta, and most of the weapons are unfinished. A lot more polish will go into each of them over time.
+HL2VR is currently in an open beta, and some of the weapons are unfinished. More polish will go into each of them over time.
 
 For more details, see the [Reloading section of the Manual](/manual/#reloading).
 
@@ -165,9 +165,11 @@ Manual reload for the crowbar has been disabled.
 
 ### Two-handed weapons?
 
-Yes! Some weapons can (and should) be held two-handed to reduce recoil and spread. (For example, two-handing the SMG will significantly reduce recoil.)
+Yes! Most weapons can be held two-handed.
 
-Some weapons *require* two hands to use. (For example, the shotgun needs to be pumped in between shots.) HL2VR is currently in an open beta, and some of the weapons we plan to add two-handed support to have not been fully implemented yet.
+Some weapons are *designed* to be held two-handed to reduce recoil and spread: SMG and Combine Pulse Rifle
+
+Some weapons *require* two hands to use: Shotgun (needs to be pumped in between shots.)
 
 <br />
 
