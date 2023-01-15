@@ -16,6 +16,9 @@ answered there.
 If you need help with the controls, e.g. you can't figure out how to climb ladders or reload
 your guns, we have a [Manual](/manual/) that explains the VR controls in-depth. So check it out!
 
+Are you a modder and want to upload your own content to the HL2VR Steam workshop? If so,
+we have a [Workshop guide](/workshop/) available for you.
+
 <br />
 
 ## Known (major) issues
