@@ -187,9 +187,11 @@ However, props cannot be used as melee weapons (except when used with the Gravit
 
 ---
 
-### Will the Steam Workshop be supported?
+### Is the Steam Workshop supported?
 
-Yes, but not at the initial release. It requires some not-insignificant code updates to the game to support, so we don't have a timeline for this just yet.
+Yes, Steam Workshop is now supported! You can visit it here: [Half-Life 2: VR Mod - Steam Workshop](https://steamcommunity.com/app/658920/workshop/)
+
+For more information on how to upload items to the Steam Workshop, visit the [Workshop Support page](/workshop).
 
 <br />
 
