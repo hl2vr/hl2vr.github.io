@@ -33,8 +33,16 @@ supported due to a bug).
 
 To upload an item, first navigate to `Half-Life 2 VR/bin/workshop` and 
 double-click the HL2VRWorkshopUploader executable. It should open the Workshop
-uploader tool. Click **Add** to create a new Workshop item. Fill out all of the
-fields. The "File" field should point to your item's VPK or BSP file.
+uploader tool. 
+
+If it prompts with a message saying you need to install .NET,
+do *not* click the Yes button. Instead, click No and download and install the
+**.NET Desktop Runtime 3.1.32** version found here: [.NET Core 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/3.1).
+Then run HL2VRWorkshopUploader again. 
+
+Click **Add** to create a new Workshop
+item. Fill out all of the fields. The "File" field should point to your item's
+VPK or BSP file.
 
 Then, accept the terms of the Steam Workshop Contribution Agreement and click
 **Publish**. If successful, you should get a message asking you if you want to
