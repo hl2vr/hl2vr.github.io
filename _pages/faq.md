@@ -30,11 +30,11 @@ More information is available on the [About](/about/) page.
 
 ### Can I support the SourceVR Mod Team?
 
-HL2VR is, and always will be, free of charge. Even so, a lot of time has gone into its development. If you enjoy your virtual time in City 17 and want to say thank you, consider buying us a coffee:
+HL2VR is, and always will be, free of charge. Even so, a lot of time has gone into its development. If you enjoy your time in City 17 and want to say thank you, consider buying us a coffee:
 
 [SourceVR Mod Team on Ko-Fi](https://ko-fi.com/sourcevrmodteam)
 
-But please, only donate if you are happy with what we have already released and are financially able and willing to do so; do not treat it as a down-payment for any future development or the release of the Episodes!
+But please, only donate if you are happy with what we have already released, and are financially able and willing to do so; do not treat it as a down-payment for any future development!
 
 Alternatively, we are always happy to just hear a few kind words of your experience. :)
 
@@ -42,8 +42,8 @@ Alternatively, we are always happy to just hear a few kind words of your experie
 
 ### How can I download and install it?
 
-You will need to own the standard **Half-Life 2** game on Steam (though it does not need to be installed; HL2VR itself will include everything you need).
-**Having the game available through Steam's Family Share is not enough - your Steam account needs to own Half-Life 2.**
+You will need to own the standard **Half-Life 2** game on Steam (though it does not need to be installed; HL2VR itself will include everything you need).  
+**Having the game available through Steam's Family Share is not enough - your Steam account needs to own Half-Life 2.**  
 You can purchase Half-Life 2 on Steam here: [Half-Life 2](https://store.steampowered.com/app/220/HalfLife_2/)
 
 You also must have **SteamVR** installed. You can download it (for free) from Steam here: [SteamVR](https://store.steampowered.com/app/250820/SteamVR/)
@@ -73,7 +73,7 @@ So far, it has been successfully tested on Index, Quest, Vive, WMR, and Pimax he
 
 No, a PC is required to play. You can of course use Oculus Link, AirLink, or Virtual Desktop to play it with your Quest over a wired or wifi connection.
 
-While the Quest 2 hardware might be powerful enough to run Half-Life 2, there is no legally available Android port of the Source engine that would be required to make it run on the headset directly.
+While the Quest 2 hardware might be powerful enough to run Half-Life 2, there is no legally available Android port of the Source engine that would be required to make it run on the headset directly. The team will *not* be pursuing any standalone release without Valve's consert and support.
 
 <br />
 
@@ -96,7 +96,10 @@ Portal 1 is the only other Valve title that is a viable option right now for mul
 Yes, but not at the initial release.
 
 Right now, we are concentrating on the base game and are working hard to make it fully playable and *mostly* bug-free.
-As of December 2022, we are slowly moving our attention to the Episodes to bring them to VR. These will be released as separate titles, similar to the standard Half-Life 2 and Episode 1/2 titles. There is no release date at this time, but if everything goes well we expect it will be in Q1 2023.
+As of January 2023, we have moved our focus to Episode 1 and preparing it for prime time. The Episodes will both be released as separate titles, similar to the standard Half-Life 2 and Episode 1/2 titles.
+
+Episode 1 is planned to launch in March 2023. Please wishlist it on Steam! [Half-Life 2: VR Mod - Episode 1](https://store.steampowered.com/app/2177750/HalfLife_2_VR_Mod__Episode_One/)
+Episode 2's release date is TBA.
 
 <br />
 
@@ -118,6 +121,9 @@ While moving, the borders of your screen will be blackened, reducing your field 
 
 Snap-turning  
 Artificial turning can be configured to be either smooth or in fixed intervals (snap turns).
+
+Teleport movement  
+Not yet available. But, after a considerable amount of work, we can confirm this will be available in a future update!
 
 Seated mode  
 This mode fixes Gordon's in-game height to match the base game regardless of the player's headset position.  
@@ -241,12 +247,7 @@ For a comprehensive overview of the controls, check the [Manual](/manual/).
 
 HL2VR features smooth locomotion. The direction of motion can be configured to either follow your head or either of the two controllers. Turning can be configured to be either smooth or in fixed intervals (snap turns).
 
-**There is currently no teleport movement available,** and it is unclear if it will become a viable option in the future.  
-It is very tricky to add to a game that was not designed for it. The early Source engine's trigger/event system is designed with the expectation that a player will be moving linearly through an area.
-
-Implementing teleporting itself is difficult, but only part of the solution; the whole point of supporting it is to get rid of artificial locomotion for the player, and that requires dealing with the vehicles, swimming, all the places where the player can experience pushback or slide down a slope, etc.
-
-All that said, we would like to include teleport movement as an option if it becomes a viable addition in the future.
+**There is currently no teleport movement available.** But, after a considerable amount of work, we can confirm this will be available in a future update!
 
 <br />
 
@@ -255,14 +256,13 @@ All that said, we would like to include teleport movement as an option if it bec
 Yes! You can configure the dominant hand, which determines the hand that is holding weapons.
 It will also swap the control scheme accordingly, so (by default) movement is on the off-hand and turning is on the primary hand.
 
-If you would like to hold your weapons in the left hand while still moving with the left stick, you will need to configure a custom SteamVR controller binding
-(or use a preset that another community member has created and shared via SteamVR).
+If you would like to hold your weapons in the left hand while still moving with the left stick, you will need to configure a custom SteamVR controller binding (or use a preset that another community member has created and shared via SteamVR).
 
 <br />
 
 ### Why did you put (this action) on (this button)?
 
-Unfortunately, the amount of inputs provided by most VR controllers is limited, and we have a selection of actions that need to be mapped to the primary-hand controller. These include the weapon selection menu, primary and alt fire, eject magazine, turning, and well as jump and crouch.
+Unfortunately, the amount of inputs provided by most VR controllers is limited, and we have a selection of actions that need to be mapped to the primary-hand controller. These include the weapon selection menu, primary and alt fire, eject magazine, turning, jump, and crouch.
 While some of these actions could, in theory, be bound to the left controller, doing so feels unintuitive or in many cases would be impossible to use properly.
 
 As a consequence, we have no choice but to bind some of these actions to the up/down movement on the joystick. After some experimentation, it was found that neither the weapon selection menu nor alt-fire were a good candidate to place on the stick as the sticks have a higher accidental misfire probability. Putting jump on the stick is less harmful in most situations.
@@ -270,5 +270,5 @@ It also means that both sticks are now fully devoted to controlling movement, wi
 Additionally, it allows us to make the overall controls very similar to Half-Life: Alyx, which most of our players are probably familiar with.
 
 While it may take some getting used to initially, the vast majority of our playtesters have not had any issues with the controls.
-If you still do not like the assignments, the controls are fully customizable via SteamVR controller bindings, and many community members have created and shared control preset that work well for them.
+If you still do not like the assignments, the controls are fully customizable via SteamVR controller bindings, and many community members have created and shared control preset that work well for them!
 
