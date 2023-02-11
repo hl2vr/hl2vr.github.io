@@ -23,20 +23,20 @@ title: "Manual"
 ---
 
 The standard Easy, Medium, and Hard options are available.  
-Players may want to keep in mind that the game will "feel" much more difficult than the base game, and adjust their desired difficulty accordingly.
+Players may want to keep in mind that the game will *feel* much more difficult than the base game, and adjust their desired difficulty accordingly.
 
 <br />
 
 ### Laser Pointer for weapons
 
-A laser pointer can be enabled to make aiming weapons easier. Enabling this option does not affect any other gameplay.
+A laser pointer can be enabled to make aiming weapons easier. Enabling this option does not affect any other gameplay, and does not count as a cheat.
 
 <br />
 
 ### Quick Reload
 
 This option is available to simplify the reloading process. (See the [Controls section](#reloading) for more detail on the default manual reloading procedure.)  
-When Quick Reload is enabled, a player can press the Eject Magazine button then drop their weapon hand to their waist, pointed down to the ground. After a moment, the weapon will automatically reload the relevant ammo. Any unspent ammo in the previous magazine will be automatically recovered.
+When Quick Reload is enabled, the player can press the Eject Magazine button then drop their weapon hand to their waist, pointed down to the ground. After a moment, the weapon will automatically reload the relevant ammo. Any unspent ammo in the previous magazine will be automatically recovered.
 
 <br />
 
@@ -54,7 +54,7 @@ The controls are fully customizable via SteamVR's controller bindings. Below, we
 
 *Half-Life 2: VR Mod* aims to support both right- and left-handed players. If you change the primary hand, all controls will be swapped accordingly.  
 For example, if you enable left-handed mode, then you will hold weapons in your left hand and move with the right stick.
-If you still want movement to be on the left stick, you will have to customize the SteamVR controller bindings (or use a community-made preset).
+If you still want movement to be on the left stick, you will have to customize the SteamVR controller bindings (or use a community-made shared preset).
 
 **The guide below will assume that the right hand is the primary hand and the left hand the off hand.**
 
@@ -82,24 +82,24 @@ Use this option to select your primary hand. By default, this is set to right ha
 
 ### Movement and movement direction
 
-The left (off-hand) stick controls your movement through the world. Press the stick in to activate Sprint; Sprint will remain active until you return the stick to its neutral position.
+The off-hand (left by default) stick controls your movement through the world. Press the stick in to activate Sprint; Sprint will remain active until you return the stick to its neutral position.
 
 You can freely move around in the real world. Your roomscale position will be reflected in the game.
 
-There is currently no teleport movement option available, and due to the complexity of implementing it it's unknown if it will come in a future update. (We would like to, if we can make it work well.) For now, you can active any of the several the [Comfort options](#comfort-options) as needed.
+There is currently no Teleport movement option available. It will be added in a future update. For now, you can active any of the several the [Comfort options](#comfort-options) as needed.
 
-You can artificially turn with the right (primary hand) stick. By default, snap turn is active with a 30° turn amount. You can change the turn amount using the "Snap turn degrees" setting in the Controls options.  
+You can artificially turn with the primary hand (right by default) stick. By default, snap turn is active with a 30° turn amount. You can change the turn amount using the "Snap turn degrees" setting in the Controls options.  
 Setting this to "0 (Smooth)" will enable continuous smooth turning.
 
-Toggle crouch by moving the right stick down. You can also physically crouch in real life.
+Toggle crouch by moving the right stick down. The player can also physically crouch.
 
-Jump by moving the right stick up. Jumping in real life is not recommended.
+Jump by moving the right stick up. The player physically jumping is not recommended.
 
 <br />
 
 ### World interactions and Item pickup mode
 
-You can grab items in each hand by pressing the Grip button (or squeezing the Index controllers). Release Grip to let go.
+The player can grab items in each hand by pressing the Grip button (or squeezing the Index controllers). Release Grip to let go.
 Grabbable items will be highlighted in the world when you are close enough to pick them up.
 
 By default, you need to pick up consumables like health or battery packs and weapons to consume them.
@@ -115,8 +115,7 @@ The trigger on your primary hand can be used as the "Use" key only while your we
 By default, "immersive" ladder climbing is active. Grab the ladder by squeezing your Grip button(s) to climb the ladder.
 You will need to unequip your weapon if you wish to climb with two hands. (But extremely stubborn users can find ways to climb with one.)
 
-**To dismount a ladder:** When you are at the top, look towards where you want to dismount, then release the Grip button on the controller (or both controllers). *Do not use the sticks or jump to dismount* - simply let go!  
-Users may need to climb *slightly* higher than it initially appears; Gordon's legs are not visible but he'll still need to get them near or above the dismount point to stand on it. :-)
+**To dismount a ladder:** When you are near where you'd like to dismount, look towards your target location to see the in-game icon indicating where you will dismount the ladder. Simply release the Grip button on the controller (or both controllers) to move to the indicated spot.
 
 If you prefer stick-based ladder climbing (similar to the flat game), you can enable this in the [Comfort options](#comfort-options).  
 Dismounting in this mode can be done with the movement stick or jump action.
@@ -125,8 +124,8 @@ Dismounting in this mode can be done with the movement stick or jump action.
 
 ### Flashlight
 
-You can activate and deactivate your flashlight by pressing either controller's Use button (trigger) near or in front of your head.  
-Users with inside-out tracking may have better luck activating this near the front of the head where the controller is more easily tracked.
+You can activate and deactivate your flashlight by pressing either controller's Use button (Trigger by default) near or in front of your head.  
+Users with inside-out tracking (like the Quest) may have better luck activating this near the front of the face where the controller is more easily tracked.
 
 <br />
 
@@ -142,14 +141,15 @@ HL2VR is designed to feel close to a native VR title, and weapon handling has be
 
 ### Weapon selection and firing
 
-Press and hold the right stick (or right touchpad on Index controllers) to open the weapon selection menu. The available weapons are shown in a hexagonal grid.
+Press and hold the primary hand stick (or touchpad on Index controllers) to open the weapon selection menu. The available weapons are shown in a hexagonal grid.
 Move your right hand towards the icon of the weapon you want to equip, then let go of the right stick to close the menu.  
 
 The weapon selection menu is controlled by your hand's *position*; it is not a pointer.  
 It may take some practice, but the menu is designed so that you can quickly switch to your desired weapons blind. We recommend allowing yourself some time to build the necessary muscle memory, and it will become second nature! :-)
 
 Once equipped, aim the weapon with your primary hand. Pull the Trigger to fire the weapon.
-Some weapons have an alt-fire mode which is activated by pressing the primary hand B button.
+Some weapons have an alt-fire mode which is activated by pressing the primary hand B button.  
+Some weapons can be stabilized using the off-hand to reduce recoil (see [Two-handing weapons](#two-handing-weapons-and-recoil-control)).
 
 <br />
 
@@ -162,22 +162,32 @@ For users that prefer a less complex approach, we've also included a simpler "qu
 This option is enabled by default.
 
 To reload, first press the primary hand A button to eject the magazine (if applicable).  
-When you eject the magazine, all ammo remaining in the mag is ejected with it. You can pick up (or catch) the mag using the Grip button and it will be instantly consumed and added back to your inventory. You can also leave them on the ground for a while before picking them up, if you're... preoccupied elsewhere.
+When you eject the magazine, all ammo remaining in the magazine is ejected with it. You can pick up (or catch) the magazine using the Grip button and it will be instantly consumed and added back to your inventory. You can also leave them on the ground for a while before picking them up, if you're... preoccupied elsewhere.
 Once ejected, a magazine can't be held, only consumed.
 
 To grab a fresh magazine from your inventory, press and hold your off-hand's Grip button near your shoulder.
 
-Bring the new magazine close to the weapon's insert point, and the magazine will be loaded.  
-Each weapon's insert point is unique. They are also subject to change during HL2VR's beta period.
+Pistol & SMG: Insert the magazine into the magazine well.  
+Revolver: Tilt the gun to empty the previous clip. Insert the new clip. Flick your hand (or press the Eject Magazine button) to close the chamber.  
+Pulse Rifle: Snap the space-magazine onto the space-magazine well on the bottom of the gun.  
+Shotgun: Insert shells into the loading port on the bottom of the gun (in between the trigger and barrel).  
+Crossbow: Nock a bolt to the far end of the rail (it will automatically draw itself back).  
+RPG: Slide the tail end of the rocket into the front end of the launcher.
 
-Some weapons, when emptied, will require additional action to chamber a round from the new magazine.  
-For example: the pistol's slide must be Used (with the Trigger button) if the chamber is completely empty. **Many of the other weapons are still in a Beta state.** Additional actions, such as a charging handle for the SMG, will be implemented over time.
+Some weapons, when completely emptied, will require additional action to chamber a round from the new magazine.
+
+Pistol: Grab the slide at the top of the gun and pull it back to chamber your first bullet.  
+SMG: Grab the charging at the back of the gun and pull it back to chamber your first bullet.  
+Shotgun: Pull the forestock back then forward again to chamber your shell.
+
+Other weapons may still be in a Beta state and subject to change over time.
 
 ###### "Quick Reload" mode:
 This option can  be enabled in the Difficulty options menu.  
 In "quick" reload mode, press the right A button to eject the magazine (if applicable). When a magazine is ejected it is automatically emptied and remaining ammo is added back to your inventory. (The empty magazine will still drop to the ground.)
 
-The weapon can then be reloaded by dropping it to your waist, aiming at the ground, and simply waiting a moment.
+The weapon can then be reloaded by dropping it to your waist, aiming at the ground, and simply waiting a moment.  
+The weapon's usual visual and audio reload cues will still play.
 
 <br />
 
@@ -195,14 +205,13 @@ Swinging props or weapons other than the crowbar does not do any damage. (We wou
 
 ### Two-handing weapons and recoil control
 
-Almost all weapons can be held with both hands. When the weapon is equipped, move your off hand near the handle or grab point, and press and hold the Grip button to hold onto the weapon with your secondary hand.  
+Almost all weapons can be held with both hands. When the weapon is equipped, move your off-hand near the handle or grab point, and press and hold the Grip button to hold onto the weapon with your secondary hand.  
 
-Some weapons, like the SMG and Combine Pulse Rifle, will expect you to use two hands. **Holding these in both hands reduces recoil significantly, and is the intended way to use the weapon.** Other weapons, like the pistol, can be used with two hands but its handling isn't affected much.
+Some weapons, like the SMG and Combine Pulse Rifle, *expect* you to use two hands. **Holding these in both hands reduces recoil significantly, and is the intended way to use the weapon.** Other weapons, like the pistol, can be used with two hands but its handling is only slightly affected.
 
-When using the shotgun, you will have to pump it after every shot. To do so, you need to grip it with both hands, pull in your secondary hand towards your primary hand, then move it back. If both parts of the pump aren't complete, the weapon won't fire.
+When using the shotgun, you will have to pump it after every shot. To do so, you need to grip it with both hands, pull in your secondary hand towards your primary hand, then move it back. If both parts of the pump aren't complete, the weapon won't fire. (You will hear a sound for each part of the pump.)
 
 To throw grenades or bugbait, press and hold the Trigger of your primary hand to arm the grenade. Make a physical throwing motion with your controller and let go of the trigger at the end to throw the grenade.  
-
 It can be challenging to accurately aim a grenade throw. **Press and hold the alt-fire button to enable an alternative throw mode.** You will be presented with a visual arc that you can use to aim your throw. Release the button to throw the grenade along the arc.
 (This can be particularly useful when trying to deal with enemies hiding in small spaces or in open windows.)
 
@@ -222,6 +231,9 @@ If the vehicle is equipped with a weapon, use your primary hand to aim the weapo
 Use the "Vehicle weapon aim" option to change this from main hand to head or off-hand tracking.
 
 To exit the vehicle, press the off-hand controller A button.
+
+**The team is aware controlling the acceleration and steering of vehicles with the same stick isn't ideal.**
+Unfortunately, this is difficult to change.
 
 <br />
 
