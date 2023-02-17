@@ -55,10 +55,10 @@ You can  download and install it via Steam here: [Half-Life 2: VR Mod](https://s
 
 ### Is the mod completely finished?
 
-The current release of HL2VR is a *public beta*. Some features are still missing or incomplete, and you may encounter bugs.
-However, the game is playable from start to finish, and we do hope you will enjoy the journey!
-
-For more details on the current state of the game and what we have planned for the future, please visit our [Roadmap](/roadmap).
+Since the original launch of HL2VR as a *public beta*, we have pushed several significant updates improving on many aspects of
+the game. In our opinion, the mod now offers a fairly polished experience from beginning to end.
+However, that does not mean we are done quite yet, and there are still a few things left to do.
+For more details on what we have planned for the future, please visit our [Roadmap](/roadmap).
 
 <br />
 
@@ -73,7 +73,7 @@ So far, it has been successfully tested on Index, Quest, Vive, WMR, and Pimax he
 
 No, a PC is required to play. You can of course use Oculus Link, AirLink, or Virtual Desktop to play it with your Quest over a wired or wifi connection.
 
-While the Quest 2 hardware might be powerful enough to run Half-Life 2, there is no legally available Android port of the Source engine that would be required to make it run on the headset directly. The team will *not* be pursuing any standalone release without Valve's consert and support.
+While the Quest 2 hardware might be powerful enough to run Half-Life 2, there is no legally available Android port of the Source engine that would be required to make it run on the headset directly. The team will *not* be pursuing any standalone release without Valve's consent and support, which Valve has refused to give.
 
 <br />
 
@@ -81,7 +81,7 @@ While the Quest 2 hardware might be powerful enough to run Half-Life 2, there is
 
 Woah, woah! Let's take this one game at a time. We're focusing on Half-Life 2 and its Episodes right now ([see below](#will-episode-1-and-2-be-supported) for details on those!).
 
-Portal 1 is the only other Valve title that is a viable option right now for multiple reasons, and while we do hope to make it happen, it won't happen for quite some time.
+Portal 1 is the only other Valve title that is a viable option right now for multiple reasons, and while we do hope to make it happen, it won't happen for quite some time, and it will only happen if Valve approves.
 
 <br />
 
@@ -93,10 +93,8 @@ Portal 1 is the only other Valve title that is a viable option right now for mul
 
 ### Will Episode 1 and 2 be supported?
 
-Yes, but not at the initial release.
-
-Right now, we are concentrating on the base game and are working hard to make it fully playable and *mostly* bug-free.
-As of January 2023, we have moved our focus to Episode 1 and preparing it for prime time. The Episodes will both be released as separate titles, similar to the standard Half-Life 2 and Episode 1/2 titles.
+The VR ports for the episodes are in the works, with Episode One VR scheduled to release on March 17th, 2023.
+The Episodes will both be released as separate titles, similar to the standard Half-Life 2 and Episode 1/2 titles.
 
 Episode 1 is planned to launch in March 2023. Please wishlist it on Steam! [Half-Life 2: VR Mod - Episode 1](https://store.steampowered.com/app/2177750/HalfLife_2_VR_Mod__Episode_One/)
 Episode 2's release date is TBA.
@@ -203,7 +201,9 @@ For more information on how to upload items to the Steam Workshop, visit the [Wo
 
 ### Is HL2VR compatible with Black Mesa?
 
-No. We agree that Black Mesa would be amazing in VR, but that would have to be a whole new project made by, or at least in collaboration with, the Black Mesa team.
+No. We agree that Black Mesa would be amazing in VR, but that would have to be a whole new project made by, or at least in collaboration with, the Black Mesa team. Unfortunately, Crowbar Collective has stated they will not be pursuing a VR version
+by themselves and see no feasible way to give a third party access to their source code, so a VR version is at this point in
+time unlikely to happen.
 
 <br />
 
@@ -215,7 +215,7 @@ As a rule of thumb, if the mod includes its own custom DLLs, expect it to not wo
 Custom content (such as texture mods) can go in the */Half-Life 2 VR/hlvr/custom* directory.
 You can also take a look at the *#hl-modding* channel in the Discord server for advice on the most popular community mods.
 
-**The HL2VR team cannot provide any support for external mods at this time** - we are still focused on the base game.
+**The HL2VR team cannot provide any support for external mods!**
 
 <br />
 
@@ -224,7 +224,7 @@ You can also take a look at the *#hl-modding* channel in the Discord server for 
 That is our intention. HL2VR is based on the publically available Source SDK 2013 edition and can, in principle, be open sourced under the same license terms.
 
 However, given the long development history of the project and the changes in the core team who worked on it over the years, we first need to do our due diligence to ensure that the source code is in a releasable state and that there are no technical and legal issues preventing it from being published.
-While we do not expect any major issues, this process will require some time. The source code release will therefore happen after the initial public release of the mod, and there is currently no definitive timeline.
+While we do not expect any major issues, this process will require some time. The source code release will therefore happen some time in the future, and there is currently no definitive timeline.
 
 <br />
 
