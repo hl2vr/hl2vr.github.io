@@ -14,6 +14,10 @@ After activating your Episode One VR Steam key and installing the game, please g
 
 As with the HL2VR prerelease, there are no strings attached, no NDAs or embargoes. You are free to report on the mod in any form and at any time. That being said, we do appreciate if you communicate issues you faced to us, first.
 
+If you do want to do us a favour, you can:
+- link to the Steam store page: https://store.steampowered.com/app/2177750/HalfLife_2_VR_Mod__Episode_One/ - people wishlisting the mod help us by increasing its visibility on Steam
+- link to our donations page: https://ko-fi.com/sourcevrmodteam
+
 ### Tips for recording
 
 If you intend to record the screen mirror, note that the game's window by default uses a resolution of 720p. To get higher quality video, you may want to increase that resolution. You can do so by adding e.g. `-w 1920 -h 1080` to the game's launch options.
