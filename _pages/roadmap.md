@@ -16,11 +16,6 @@ Listed below are the major items we intend to work on after the initial public b
 The Episodes require a separate build of the mod. This build needs to be prepared and properly tested before it can be released publicly. Preliminary internal testing by the dev team has already found a few major issues that need to be resolved.
 Even so, the majority of the Episodes already works very well in VR, and after the initial public beta launch we will strive to get the Episodes fully supported as soon as possible. We're currently aiming for Q1 2023.
 
-### Weapon overhaul
-
-All of the *Half-Life 2* weapons have been modified for VR and are fully functional, including manual reloading, two-handed weapon handling, and optional laser sights.
-However, there is still a lot of polish left to do. Some weapon animations and effects (including sound) are missing or incomplete, and some aspects of the weapon handling could be improved. We're working on it, and will gradually release updates as we make progress.
-
 ### Movement and comfort improvements
 
 The game currently features full support of roomscale movement, as well as artificial locomotion with all the typical configuration options you'd expect from a modern VR title: head- or controller-oriented movement, snap and smooth turning, and a configurable comfort vignette for those who are struggling with motion sickness.
