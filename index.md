@@ -70,7 +70,10 @@ The public beta is now live on Steam, free for all owners of Half-Life 2! Check 
 
 [Half-Life 2: VR Mod on Steam](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/)
 
-The episodes are in the works, with Episode One scheduled to release later in Q1 2023.
+The episodes are in the works, with Episode One scheduled to release on March 17th 2023. Go ahead and wishlist it now:
+
+[Half-Life 2: VR Mod - Episode One on Steam](https://store.steampowered.com/app/2177750/HalfLife_2_VR_Mod__Episode_One/)
+
 
 Are you enjoying *Half-Life 2* in VR and want to thank us? Buy us a coffee:
 [Donate to Source VR Mod Team on Ko-Fi](https://ko-fi.com/sourcevrmodteam)
