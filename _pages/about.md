@@ -26,12 +26,13 @@ to the public.
 * HigherFlyer (Programming)
 * Markyparky (Programming)
 
-## Past contributors
+## Additional contributors
 
 * Adoral84
 * [DrBeef](https://github.com/DrBeef)
 * EcstaticalEcstatic
 * highflex
+* [Joshie](https://github.com/Joshua-Ashton/)
 * marulu
 * NightStorm1000
 * petes117
