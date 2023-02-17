@@ -51,13 +51,13 @@ about:
     btn_class: "btn--primary"
 
 release:
-  - image_path: /assets/images/feature_row/release.jpg
+  - image_path: /assets/images/feature_row/ep1_logo.jpg
     alt: "Release announcement"
-    title: "Public beta launched September 16th, 2022"
+    title: "Episode One VR to be released March 17th, 2023"
     excerpt: >-
-      Great news - *Half-Life 2: VR Mod* was released as a public beta on September 16th, 2022! It is available on Steam free to any owners of the original *Half-Life 2*.
-      Check out our Steam page right now to download it! :)
-    url: "https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/"
+      Great news - *Half-Life 2: VR Mod - Episode One* is coming to Steam on March 17th, 2023! It will be available free to any owners of the original *Half-Life 2: Episode One*.
+      Check out the Steam page right now to wishlist it! :)
+    url: "https://store.steampowered.com/app/2177750/HalfLife_2_VR_Mod__Episode_One/"
     btn_class: "btn--primary"
     btn_label: "Steam page"
 ---
