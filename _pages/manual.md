@@ -23,7 +23,7 @@ title: "Manual"
 ---
 
 The standard Easy, Medium, and Hard options are available.  
-Players may want to keep in mind that the game will *feel* much more difficult than the base game, and adjust their desired difficulty accordingly.
+Players may want to keep in mind that due to the VR controls and interactions the game will *feel* much more difficult than the base game, and adjust their desired difficulty accordingly.
 
 <br />
 
@@ -46,7 +46,7 @@ When Quick Reload is enabled, the player can press the Eject Magazine button the
 
 ---
 
-The controls are fully customizable via SteamVR's controller bindings. Below, we will explain the default bindings, but you can always make your own modifications to suit your needs, or use community bindings another user has created and shared.
+The controls are fully customizable via SteamVR's controller bindings menu. Below, we will explain the default bindings, but you can always make your own modifications to suit your needs, or use community bindings another user has created and shared.
 
 <br />
 
@@ -86,14 +86,18 @@ The off-hand (left by default) stick controls your movement through the world. P
 
 You can freely move around in the real world. Your roomscale position will be reflected in the game.
 
-There is currently no Teleport movement option available. It will be added in a future update. For now, you can active any of the several the [Comfort options](#comfort-options) as needed.
-
 You can artificially turn with the primary hand (right by default) stick. By default, snap turn is active with a 30° turn amount. You can change the turn amount using the "Snap turn degrees" setting in the Controls options.  
 Setting this to "0 (Smooth)" will enable continuous smooth turning.
 
 Toggle crouch by moving the right stick down. The player can also physically crouch.
 
 Jump by moving the right stick up. The player physically jumping is not recommended.
+
+A Teleport movement option is available in the Options - Controls menu. You can either choose teleport movement exclusively, in which case both the movement stick as well as the jump key will instead be used to select a teleport target. Or you can choose to retain regular movement on the movement stick and only replace the jump key with teleport.  
+On land, teleport targeting should mostly work as expected. You may need to point upwards a little to "jump" onto obstacles, and you need to point downwards if you want to drop from greater heights. Note that you also need to crouch (either in real life or with the crouch toggle key) to teleport into vents and other places with limited vertical space.  
+In water, you can teleport in any direction. Point downwards to dive into the water, and upwards to return to the surface. Point upwards towards land to get out of the water.  
+For ladders, stand at a slight distance in front of them and point the teleport up or down towards the ladder. An arrow will light up and show you which direction you are going.  
+Please understand that selecting teleport movement will *not* eliminate any and all artificial movement in the game. Due to the game's design, the player is ultimately subject to events from the physics engine. Some enemies can push or even launch you back, and you will slide on certain terrain, so please be prepared for that.
 
 <br />
 
@@ -267,10 +271,14 @@ To properly utilize this feature, enable it in the Options menu, then use the "r
 By default, "fixed horizon" is enabled. This allows your view to move with the vehicle, but disables any view rolling.
 (This means you can be moved around, but you always remain upright.)
 
-The "base game default" mode is available for roller coaster enthusiasts.
+The "no comfort" mode is available for roller coaster enthusiasts. Do not use this unless you've got an iron stomach.
+
+The "decoupled camera" option allows you to turn the camera independently from the vehicle's orientation with your primary-hand stick, whereas the off-hand stick still accelerates and turns the vehicle. The movement stick is directional.
 
 The "3rd person camera" changes the vehicle rides to a 3rd person camera perspective.
-In this mode, the camera follows the vehicle at a distance and is not directly subjected to the vehicle's rapid movements and turns, which should reduce motion sickness dramatically. It does, however, make controlling the vehicles a little more awkward.
+In this mode, the camera follows the vehicle at a distance and is not directly subjected to the vehicle's rapid movements and turns, which should reduce motion sickness dramatically. The movement stick is directional.
+
+The "Teleporting camera" is another 3rd person camera option. The vehicles still move freely, but your camera does not - instead, it teleports in regular intervals to a third-person view just behind the vehicle. This is designed to help the most motion-sickness prone users.
 
 In the future, we may implement an additional mode where the vehicle rides are put on a virtual 2D screen in front of the user, so that everyone has a chance to get through the vehicle sections in the game.
 (This mode would of course be less immersive than the current ones, as it would remove any 3D effect from the experience.)
