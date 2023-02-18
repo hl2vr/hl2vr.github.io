@@ -119,7 +119,7 @@ The trigger on your primary hand can be used as the "Use" key only while your we
 By default, "immersive" ladder climbing is active. Grab the ladder by squeezing your Grip button(s) to climb the ladder.
 You will need to unequip your weapon if you wish to climb with two hands. (But extremely stubborn users can find ways to climb with one.)
 
-**To dismount a ladder:** When you are near where you'd like to dismount, look towards your target location to see the in-game icon indicating where you will dismount the ladder. Simply release the Grip button on the controller (or both controllers) to move to the indicated spot.
+**To dismount a ladder:** When you are near where you'd like to dismount, look towards your target location to see the in-game icon indicating where you will dismount the ladder. Then, simply release the Grip button on both controllers to move to the indicated spot.
 
 If you prefer stick-based ladder climbing (similar to the flat game), you can enable this in the [Comfort options](#comfort-options).  
 Dismounting in this mode can be done with the movement stick or jump action.
@@ -181,10 +181,10 @@ RPG: Slide the tail end of the rocket into the front end of the launcher.
 Some weapons, when completely emptied, will require additional action to chamber a round from the new magazine.
 
 Pistol: Grab the slide at the top of the gun and pull it back to chamber your first bullet.  
-SMG: Grab the charging at the back of the gun and pull it back to chamber your first bullet.  
+SMG: Grab the charging handle at the back of the gun and pull it back to chamber your first bullet.  
 Shotgun: Pull the forestock back then forward again to chamber your shell.
 
-Other weapons may still be in a Beta state and subject to change over time.
+Some aspects of the weapons are still subject to change over time.
 
 ###### "Quick Reload" mode:
 This option can  be enabled in the Difficulty options menu.  
@@ -201,17 +201,18 @@ To attack with the crowbar, you need to physically swing it to damage enemies or
 Damage scales, to some extent, based on your swing's distance and speed.
 
 There is a minimum requirement on both the swing speed and distance to do damage. There is also a brief cooldown period between attacks.
-This means you should make your attacks meaningful. We do not encourage waggling. :-)
+This means you should make your attacks meaningful - we do not encourage waggling. :-)
 
-Swinging props or weapons other than the crowbar does not do any damage. (We would like to implement this, but it's quite difficult.)
+Swinging props or weapons other than the crowbar does not do any damage. (We would like to implement this, but it's quite difficult!)
 
 <br />
 
 ### Two-handing weapons and recoil control
 
-Almost all weapons can be held with both hands. When the weapon is equipped, move your off-hand near the handle or grab point, and press and hold the Grip button to hold onto the weapon with your secondary hand.  
+Almost all weapons can be held with both hands. When the weapon is equipped, move your off-hand near the handle or grab point, and press and hold the Grip button to hold onto the weapon with your secondary hand.
 
-Some weapons, like the SMG and Combine Pulse Rifle, *expect* you to use two hands. **Holding these in both hands reduces recoil significantly, and is the intended way to use the weapon.** Other weapons, like the pistol, can be used with two hands but its handling is only slightly affected.
+Some weapons, like the Pistol, gain a benefit of *slightly* reduced recoil with a two-hand grip.  
+And some weapons, like the SMG and Combine Pulse Rifle, *expect* you to use two hands. **Holding these in both hands reduces recoil significantly, and is the intended way to use the weapon.**
 
 When using the shotgun, you will have to pump it after every shot. To do so, you need to grip it with both hands, pull in your secondary hand towards your primary hand, then move it back. If both parts of the pump aren't complete, the weapon won't fire. (You will hear a sound for each part of the pump.)
 
@@ -225,10 +226,8 @@ It can be challenging to accurately aim a grenade throw. **Press and hold the al
 
 To enter a vehicle, press either hand's Trigger (while not holding anything) near the vehicle.
 
-You can accelerate and steer your vehicles with the left (off-hand) stick. Press the left stick in to activate the buggy's boost.
-
-Press the primary hand A button to activate the buggy's handbrake.
-
+You can accelerate and steer your vehicles with the left (off-hand) stick. Press the left stick in to activate the buggy's boost.  
+Press the primary hand A button to activate the buggy's handbrake.  
 Press the primary hand stick in to activate the airboat's headlights.
 
 If the vehicle is equipped with a weapon, use your primary hand to aim the weapon and press the trigger to fire it. If available, you can activate alt fire via the right B button.  
