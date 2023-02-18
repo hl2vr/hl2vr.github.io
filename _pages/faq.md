@@ -55,8 +55,8 @@ You can  download and install it via Steam here: [Half-Life 2: VR Mod](https://s
 
 ### Is the mod completely finished?
 
-Since the original launch of HL2VR as a *public beta*, we have pushed several significant updates improving on many aspects of
-the game. In our opinion, the mod now offers a fairly polished experience from beginning to end.
+Since the original launch of HL2VR as a *public beta*, we have pushed several significant updates improving on many aspects of the game.
+In our opinion, the mod now offers a fairly polished experience from beginning to end.
 However, that does not mean we are done quite yet, and there are still a few things left to do.
 For more details on what we have planned for the future, please visit our [Roadmap](/roadmap).
 
@@ -93,10 +93,10 @@ Portal 1 is the only other Valve title that is a viable option right now for mul
 
 ### Will Episode 1 and 2 be supported?
 
-The VR ports for the episodes are in the works, with Episode One VR scheduled to release on March 17th, 2023.
+The VR ports for the episodes are in the works, with Episode One VR scheduled to release in March 2023.
 The Episodes will both be released as separate titles, similar to the standard Half-Life 2 and Episode 1/2 titles.
 
-Episode 1 is planned to launch in March 2023. Please wishlist it on Steam! [Half-Life 2: VR Mod - Episode 1](https://store.steampowered.com/app/2177750/HalfLife_2_VR_Mod__Episode_One/)
+Episode 1 is planned to launch on March 17th. Please wishlist it on Steam! [Half-Life 2: VR Mod - Episode 1](https://store.steampowered.com/app/2177750/HalfLife_2_VR_Mod__Episode_One/)  
 Episode 2's release date is TBA.
 
 <br />
@@ -121,7 +121,7 @@ Snap-turning
 Artificial turning can be configured to be either smooth or in fixed intervals (snap turns).
 
 Teleport movement  
-Not yet available. But, after a considerable amount of work, we can confirm this will be available in a future update!
+Available as of February 18th's update! See the [Manual](/manual/) for details.
 
 Seated mode  
 This mode fixes Gordon's in-game height to match the base game regardless of the player's headset position.  
@@ -169,11 +169,13 @@ Manual reload for the crowbar has been disabled.
 
 ### Two-handed weapons?
 
-Yes! Most weapons can be held two-handed.
+Yes! All weapons can be held two-handed.
 
-Some weapons are *designed* to be held two-handed to reduce recoil and spread: SMG and Combine Pulse Rifle
+Some weapons only benefit *slightly* from a two-hand grip, such as the Pistol.
 
-Some weapons *require* two hands to use: Shotgun (needs to be pumped in between shots.)
+Some weapons are *designed* to be held two-handed to reduce recoil and spread, such as the SMG and Combine Pulse Rifle.
+
+Some weapons *require* two hands to use, including the Shotgun (which needs to be pumped in between shots).
 
 <br />
 
@@ -201,9 +203,8 @@ For more information on how to upload items to the Steam Workshop, visit the [Wo
 
 ### Is HL2VR compatible with Black Mesa?
 
-No. We agree that Black Mesa would be amazing in VR, but that would have to be a whole new project made by, or at least in collaboration with, the Black Mesa team. Unfortunately, Crowbar Collective has stated they will not be pursuing a VR version
-by themselves and see no feasible way to give a third party access to their source code, so a VR version is at this point in
-time unlikely to happen.
+No. We agree that Black Mesa would be amazing in VR, but that would have to be a whole new project made by, or at least in collaboration with, the Black Mesa team.
+Unfortunately, Crowbar Collective has stated they will not be pursuing a VR version by themselves and see no feasible way to give a third party access to their source code, so a VR version is - at this point in time - unlikely to happen.
 
 <br />
 
@@ -245,9 +246,9 @@ For a comprehensive overview of the controls, check the [Manual](/manual/).
 
 ### What movement options are available?
 
-HL2VR features smooth locomotion. The direction of motion can be configured to either follow your head or either of the two controllers. Turning can be configured to be either smooth or in fixed intervals (snap turns).
+HL2VR features smooth locomotion by default. The direction of motion can be configured to either follow your head or either of the two controllers. Turning can be configured to be either smooth or in fixed intervals (snap turns).
 
-**There is currently no teleport movement available.** But, after a considerable amount of work, we can confirm this will be available in a future update!
+A Teleport movement option is also available.
 
 <br />
 
