@@ -12,6 +12,7 @@ title: "FAQ"
 | [Weapons](#weapons)  |
 | [Mod Support](#mod-support)  |
 | [Controls](#controls)  |
+| [Streaming](#streaming)  |
 
 <br />
 
@@ -273,3 +274,32 @@ Additionally, it allows us to make the overall controls very similar to Half-Lif
 While it may take some getting used to initially, the vast majority of our playtesters have not had any issues with the controls.
 If you still do not like the assignments, the controls are fully customizable via SteamVR controller bindings, and many community members have created and shared control preset that work well for them!
 
+<br />
+
+---
+
+# Streaming
+
+---
+
+### How can I increase the resolution of the desktop mirror for higher-quality recordings?
+
+Right-click on the game in Steam, select "Properties" and then add the following to the "Launch options":
+
+```
+-w 1920 -h 1080
+```
+
+This will size the desktop mirror at 1080p. You can also select any other resolution you want to use.
+Note, however, that the desktop mirror is essentially a copy of one of your eyes and thus limited by the VR render resolution.
+If you select a 4K resolution for the desktop mirror, you will not actually get 4K quality unless your VR render resolution is also at least 4K per eye.
+
+<br />
+
+### Can I stop the desktop mirror from doubling the in-game HUD / menu?
+
+Yes. Go to the options, then click the button in the lower left to bring up the console. Type `hlvr_hud_on_mirror 0` to deactivate mirroring the ingame HUD to the mirror window. Or type `hlvr_hud_on_mirror -1` to additionally disable mirroring of the main menu on the desktop mirror. The setting persists, so you only have to do it once. If you wish to revert the change, type `hlvr_hud_on_mirror 1`.
+
+### How can I select which eye is mirrored to the desktop?
+
+By default, the right eye is mirrored. If you wish to change it to the left eye, go to the console and type `hlvr_mirror_eye 0`. To change it back to the right eye, type `hlvr_mirror_eye 1`.
