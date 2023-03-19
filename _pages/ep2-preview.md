@@ -6,6 +6,10 @@ title: "Episode Two Preview"
 Welcome! If you are reading this, you were probably given early access to our current Episode Two VR build, to help us iron out a few bugs before launch and/or spread the word about the mod. :)
 Here are some important details for you, please go over them carefully.
 
+### Installation
+
+Currently, you must have Episode One VR and Episode Two VR installed to the same Steam library for Ep2 to work.
+
 ### Reporting on the mod
 
 As with the HL2VR and Ep1 prereleases, there are no strings attached, no NDAs or embargoes. You are free to report on the mod in any form and at any time. That being said, we do appreciate if you communicate issues you faced to us first.
