@@ -11,8 +11,8 @@ Here are some important details for you, please go over them carefully.
 As with the HL2VR and Ep1 prereleases, there are no strings attached, no NDAs or embargoes. You are free to report on the mod in any form and at any time. That being said, we do appreciate if you communicate issues you faced to us first.
 
 If you do want to do us a favor, you can:
-- Link to the Steam store page: https://store.steampowered.com/app/2177760/HalfLife_2_VR_Mod__Episode_Two/ - People wishlisting the mod help us by increasing its visibility on Steam. The public launch is planned for **March 17th**!
-- Link to our donations page: https://ko-fi.com/sourcevrmodteam
+- Link to the Steam store page: [https://store.steampowered.com/app/2177760/HalfLife_2_VR_Mod__Episode_Two/](https://store.steampowered.com/app/2177760/HalfLife_2_VR_Mod__Episode_Two/) - People wishlisting the mod help us by increasing its visibility on Steam. The public launch is planned for **April 6th**!
+- Link to our donations page: https://ko-fi.com/sourcevrmodteam[](https://ko-fi.com/sourcevrmodteam)
 
 ### Controls
 
