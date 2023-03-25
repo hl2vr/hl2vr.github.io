@@ -37,7 +37,7 @@ HL2VR is, and always will be, free of charge. Even so, a lot of time has gone in
 
 But please, only donate if you are happy with what we have already released, and are financially able and willing to do so; do not treat it as a down-payment for any future development!
 
-Alternatively, we are always happy to just hear a few kind words of your experience. :)
+Alternatively, we are always happy to just hear a few kind words of your experience. :-)
 
 <br />
 
@@ -56,8 +56,9 @@ You can  download and install it via Steam here: [Half-Life 2: VR Mod](https://s
 
 ### Is the mod completely finished?
 
-Since the original launch of HL2VR as a *public beta*, we have pushed several significant updates improving on many aspects of the game.
-In our opinion, the mod now offers a fairly polished experience from beginning to end.
+Since the original launch of HL2VR as a *public beta* in September 2022, we have pushed several significant updates improving on many aspects of the game.
+In our opinion, the mod now offers a polished experience from beginning to end and is mostly feature-complete.
+
 However, that does not mean we are done quite yet, and there are still a few things left to do.
 For more details on what we have planned for the future, please visit our [Roadmap](/roadmap).
 
@@ -74,15 +75,16 @@ So far, it has been successfully tested on Index, Quest, Vive, WMR, and Pimax he
 
 No, a PC is required to play. You can of course use Oculus Link, AirLink, or Virtual Desktop to play it with your Quest over a wired or wifi connection.
 
-While the Quest 2 hardware might be powerful enough to run Half-Life 2, there is no legally available Android port of the Source engine that would be required to make it run on the headset directly. The team will *not* be pursuing any standalone release without Valve's consent and support, which Valve has refused to give.
+While the Quest 2 hardware might be powerful enough to run HL2VR, there is no legally available Android port of the Source engine that would be required to make it run on the headset directly.  
+Valve has refused to give their consent and support on this front, so the team will *not* be pursuing any standalone release.
 
 <br />
 
 ### Portal? L4D? TF2? CS?
 
-Woah, woah! Let's take this one game at a time. We're focusing on Half-Life 2 and its Episodes right now ([see below](#will-episode-1-and-2-be-supported) for details on those!).
+Woah, woah! Let's take this one game at a time. We're focusing on Half-Life 2 and its Episodes right now. We'll make public announcements if/when that changes in the future.
 
-Portal 1 is the only other Valve title that is a viable option right now for multiple reasons, and while we do hope to make it happen, it won't happen for quite some time, and it will only happen if Valve approves.
+Portal 1 is the only other Valve title that is a viable option right now for multiple reasons, and while we do hope to make it happen, it won't be for some time yet. It will also only happen if Valve approves.
 
 <br />
 
@@ -94,11 +96,11 @@ Portal 1 is the only other Valve title that is a viable option right now for mul
 
 ### Will Episode 1 and 2 be supported?
 
-The VR ports for the episodes are in the works, with Episode One VR scheduled to release in March 2023.
-The Episodes will both be released as separate titles, similar to the standard Half-Life 2 and Episode 1/2 titles.
+The Episodes are being released as separate titles, similar to the standard Half-Life 2 and Episode 1/2 titles.
 
-Episode 1 is planned to launch on March 17th. Please wishlist it on Steam! [Half-Life 2: VR Mod - Episode 1](https://store.steampowered.com/app/2177750/HalfLife_2_VR_Mod__Episode_One/)  
-Episode 2's release date is TBA.
+Episode 1 launched on March 17th, 2023. You can find it here on Steam: [Half-Life 2: VR Mod - Episode 1](https://store.steampowered.com/app/2177750/HalfLife_2_VR_Mod__Episode_One/)  
+
+Episode 2's release date is planned for April 2023. Please wishlist it here on Steam: [Half-Life 2: VR Mod - Episode 2](https://store.steampowered.com/app/2177760/HalfLife_2_VR_Mod__Episode_Two/) - this helps boost its visibility!
 
 <br />
 
@@ -122,7 +124,8 @@ Snap-turning
 Artificial turning can be configured to be either smooth or in fixed intervals (snap turns).
 
 Teleport movement  
-Available as of February 18th's update! See the [Manual](/manual/) for details.
+Teleport movement is available as of the February 2023 update, and can be used on the ground or in water. 
+See the [Manual](/manual/) for details.
 
 Seated mode  
 This mode fixes Gordon's in-game height to match the base game regardless of the player's headset position.  
@@ -143,24 +146,21 @@ This prevents your view from tilting left or right, which can help keep your vie
 The movement vignette is also available (as a separate toggle) and can be activated for the vehicle rides.
 
 A 3rd person camera perspective is available.  
-In this mode, the camera follows the vehicle at a distance and is not directly subjected to the vehicle's rapid movements and turns, which should reduce motion sickness dramatically. (It does, however, make controlling the vehicles a little more awkward.)
-
-In the future, we may implement an additional mode where the vehicle rides are put on a virtual 2D screen in front of the user, so that everyone has a chance to get through the vehicle sections in the game.
-This mode would of course be less immersive than the current ones as it would remove any 3D effect from the experience.
+In this mode, the camera follows the vehicle at a distance and is not directly subjected to the vehicle's rapid movements and turns, which should reduce motion sickness dramatically. (It does, however, make controlling the vehicles a little more awkward.)  
+An additional mode using an experimental teleporting camera is also available, to further reduce artificial locomotion during these sections.
 
 <br />
 
 ---
 
-# Weapons
+# Weapons & Controls
 
 ---
 
 ### Manual reloading?
 
-Yes, all weapons support manual reloading. Partially used magazines and other ejected ammo are automatically recovered and added back into your inventory.
+Yes, all weapons support manual reloading. Partially used magazines and other ejected ammo can be recovered and added back into your inventory.
 A "quick reload" option has been added that simplifies the process, for players looking for an easier reloading option.  
-HL2VR is currently in an open beta, and some of the weapons are unfinished. More polish will go into each of them over time.
 
 For more details, see the [Reloading section of the Manual](/manual/#reloading).
 
@@ -172,19 +172,50 @@ Manual reload for the crowbar has been disabled.
 
 Yes! All weapons can be held two-handed.
 
-Some weapons only benefit *slightly* from a two-hand grip, such as the Pistol.
-
-Some weapons are *designed* to be held two-handed to reduce recoil and spread, such as the SMG and Combine Pulse Rifle.
-
-Some weapons *require* two hands to use, including the Shotgun (which needs to be pumped in between shots).
+Some weapons only benefit *slightly* from a two-hand grip, such as the Pistol.  
+Some weapons are *designed* to be held two-handed to reduce recoil and spread, such as the SMG and Combine Pulse Rifle.  
+And some weapons *require* two hands to use, including the Shotgun (which needs to be pumped in between shots).
 
 <br />
 
 ### I want to hit things with the crowbar?
 
-Good news! You can! Crowbar damage is dependant on both your swing distance and speed.
+Good news - you can! Crowbar damage also scales, to some extent, with both your swing distance and speed.
 
-However, props cannot be used as melee weapons (except when used with the Gravity Gun, as usual).
+However, props cannot be used as melee weapons (except when thrown with the Gravity Gun, as usual).
+
+<br />
+
+### How do controls work in-game, and what options are available??
+
+HL2VR will offer some in-game hints on the required actions and buttons you need to perform certain actions. For a comprehensive overview of the controls, check the [Manual](/manual/).
+
+Smooth locomotion movement is enabled by default. The direction of motion can be configured to either follow your head, or either of the two controllers. Turning can be configured to be either smooth or in fixed intervals (snap turns).
+
+A Teleport movement option is also available.
+
+<br />
+
+### Is left-handed mode supported?
+
+Yes, you can configure the dominant hand, which determines the hand that is holding weapons.
+It will also swap the control scheme accordingly, so (by default) movement is on the off-hand and turning is on the primary hand.
+
+If you would like to hold your weapons in the left hand while still moving with the left stick, you will need to configure a custom SteamVR controller binding (or use a preset that another community member has created and shared via SteamVR).
+
+<br />
+
+### Why did you put (this action) on (this button)?
+
+Unfortunately, the amount of inputs provided by most VR controllers is limited, and we have a selection of actions that need to be mapped to the primary-hand controller. These include the weapon selection menu, primary and alt fire, eject magazine, turning, jump, and crouch.
+While some of these actions could, in theory, be bound to the left controller, doing so feels unintuitive or in many cases would be impossible to use properly.
+
+As a consequence, we have no choice but to bind some of these actions to the up/down movement on the joystick. After some experimentation, it was found that neither the weapon selection menu nor alt-fire were a good candidate to place on the stick as the sticks have a higher accidental misfire probability. Putting jump on the stick is less harmful in most situations.
+It also means that both sticks are now fully devoted to controlling movement, with the right stick controlling turning, jumping, and crouching.  
+Additionally, it allows us to make the overall controls very similar to Half-Life: Alyx, which most of our players are probably familiar with.
+
+While it may take some getting used to initially, the vast majority of our playtesters have not had any issues with the controls.
+But if you still do not like the assignments, the controls are fully customizable via SteamVR controller bindings, and many community members have created and shared control preset that work well for them!
 
 <br />
 
@@ -196,16 +227,16 @@ However, props cannot be used as melee weapons (except when used with the Gravit
 
 ### Is the Steam Workshop supported?
 
-Yes, Steam Workshop is now supported! You can visit it here: [Half-Life 2: VR Mod - Steam Workshop](https://steamcommunity.com/app/658920/workshop/)
+Yes! You can visit it here: [Half-Life 2: VR Mod - Steam Workshop](https://steamcommunity.com/app/658920/workshop/)
 
-For more information on how to upload items to the Steam Workshop, visit the [Workshop Support page](/workshop).
+For more information on how to *upload* items to the Steam Workshop, visit the [Workshop Support page](/workshop).
 
 <br />
 
 ### Is HL2VR compatible with Black Mesa?
 
 No. We agree that Black Mesa would be amazing in VR, but that would have to be a whole new project made by, or at least in collaboration with, the Black Mesa team.
-Unfortunately, Crowbar Collective has stated they will not be pursuing a VR version by themselves and see no feasible way to give a third party access to their source code, so a VR version is - at this point in time - unlikely to happen.
+Unfortunately, Crowbar Collective has stated they will not be pursuing a VR version by themselves, and see no feasible way to give a third party access to their source code. An official VR version of the retail release is - at this point in time - not planned.
 
 <br />
 
@@ -227,52 +258,6 @@ That is our intention. HL2VR is based on the publically available Source SDK 201
 
 However, given the long development history of the project and the changes in the core team who worked on it over the years, we first need to do our due diligence to ensure that the source code is in a releasable state and that there are no technical and legal issues preventing it from being published.
 While we do not expect any major issues, this process will require some time. The source code release will therefore happen some time in the future, and there is currently no definitive timeline.
-
-<br />
-
----
-
-# Controls
-
----
-
-### How do controls work in the game?
-
-HL2VR will offer some in-game hints on the required actions and buttons you need to perform certain actions in the game.
-These are still being added and adjusted in HL2VR's beta period.
-
-For a comprehensive overview of the controls, check the [Manual](/manual/).
-
-<br />
-
-### What movement options are available?
-
-HL2VR features smooth locomotion by default. The direction of motion can be configured to either follow your head or either of the two controllers. Turning can be configured to be either smooth or in fixed intervals (snap turns).
-
-A Teleport movement option is also available.
-
-<br />
-
-### Is left-handed mode supported?
-
-Yes! You can configure the dominant hand, which determines the hand that is holding weapons.
-It will also swap the control scheme accordingly, so (by default) movement is on the off-hand and turning is on the primary hand.
-
-If you would like to hold your weapons in the left hand while still moving with the left stick, you will need to configure a custom SteamVR controller binding (or use a preset that another community member has created and shared via SteamVR).
-
-<br />
-
-### Why did you put (this action) on (this button)?
-
-Unfortunately, the amount of inputs provided by most VR controllers is limited, and we have a selection of actions that need to be mapped to the primary-hand controller. These include the weapon selection menu, primary and alt fire, eject magazine, turning, jump, and crouch.
-While some of these actions could, in theory, be bound to the left controller, doing so feels unintuitive or in many cases would be impossible to use properly.
-
-As a consequence, we have no choice but to bind some of these actions to the up/down movement on the joystick. After some experimentation, it was found that neither the weapon selection menu nor alt-fire were a good candidate to place on the stick as the sticks have a higher accidental misfire probability. Putting jump on the stick is less harmful in most situations.
-It also means that both sticks are now fully devoted to controlling movement, with the right stick controlling turning, jumping, and crouching.  
-Additionally, it allows us to make the overall controls very similar to Half-Life: Alyx, which most of our players are probably familiar with.
-
-While it may take some getting used to initially, the vast majority of our playtesters have not had any issues with the controls.
-If you still do not like the assignments, the controls are fully customizable via SteamVR controller bindings, and many community members have created and shared control preset that work well for them!
 
 <br />
 
