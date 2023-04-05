@@ -24,10 +24,10 @@ This is only meant to be helpful!
 ---
 
 Branches, also known as Betas, are specific builds of a Steam app that has been made available publicly or privately by the dev team.
-To switch to a custom branch in the Steam client, right-click on the game from your Steam Library and select "Properties". Among the available tabs will be the "BETAS" tab.
+To switch to a custom branch in the Steam client, right-click on the game from your Steam Library and select "Properties". Among the available tabs will be the "Betas" tab.
 On this tab, you'll find a dropdown menu with these available options under "Select the beta you would like to opt into":
 
-(image here)
+![Steam Betas](/assets/images/controls/SteamBetas.jpg)
 
 <br />
 
@@ -38,7 +38,7 @@ On this tab, you'll find a dropdown menu with these available options under "Sel
 **previous** - Rolls back to the previous public release. This shouldn't be useful for most users unless a new update introduces a game-breaking issue.
 
 **3.0 (AKA "TNG")** - A beta branch with improved visuals, including updated lighting and upscaled textures.  
-This branch is a *work in progress*, it is *not* considered a stable release, and there is currently no ETA for its completion. For this reason, it is passworded to prevent accidental usage. The password is: *bleedingedge2*
+This branch is a *work in progress*, it is *not* considered a stable release, and there is currently no ETA for its completion. For this reason, it is passworded to prevent accidental usage. The beta access code is: *bleedingedge2*
 
 <br />
 
@@ -50,7 +50,9 @@ This branch is a *work in progress*, it is *not* considered a stable release, an
 
 Editing controls for HL2VR is done via SteamVR's built-in Controller Bindings menu. With the game running, open the SteamVR overlay and select "controller bindings", then select Half-Life 2: VR Mod.
 
-(image: bindings-edit)
+HL2VR, HL2VR Episode 1, and HL2VR Episode 2 are each considered separate titles, and changes to one do not carry over to the others.
+
+![Bindings Edit](/assets/images/controls/Bindings-Edit.jpg)
 
 <br />
 
@@ -58,14 +60,17 @@ Editing controls for HL2VR is done via SteamVR's built-in Controller Bindings me
 
 HL2VR offers two default control presets. The only difference between them is how vehicles control.
 
-(image: bindings-official)
+![Bindings Official](/assets/images/controls/Bindings-Official_small.jpg)
 
-The default preset uses your movement hand (off-hand) stick to control vehicle acceleration, braking, and steering.
-Vehicle weapon fire is bound to primary-hand Trigger.
+The "alternative vehicle controls" preset moves the vehicle Accelerate and Brake off the stick and onto the two Triggers.
+For more details, see: [Vehicle Accelerate/Brake](#vehicle-acceleratebrake)
 
-The other preset changes vehicle acceleration and braking to primary-hand Trigger and off-hand Trigger (respectively).
-Vehicle weapon fire is bound to primary-hand "B".  
-See also: (accel/brake section link)
+<br />
+
+### Community presets
+
+Community Bindings are presets that other HL2VR players have created and shared.
+They can be used, or edited, just like Official presets.
 
 <br />
 
@@ -73,18 +78,25 @@ See also: (accel/brake section link)
 
 If none of the Official or Community bindings presets work for you, you can edit the SteamVR controller bindings to adjust controls to your liking.
 
-(image: bindings-personalize)
+![Bindings personalize](/assets/images/controls/Bindings-personalize.jpg)
 
 Details on how to use SteamVR Controller Bindings is outside the scope of this page, but if you're unfamiliar with it you can find plenty of help through Google or the Steam community.
 
 <br />
 
-### Vehicle Acceleration/Brake
+### Vehicle Accelerate/Brake
 
-Keep in mind that binding *either* Accelerate or Brake vehicle options will un-bind *both* from your movement stick up/down.
+The default preset uses your movement hand (off-hand) stick to control vehicle acceleration (up), braking (down), and steering (left/right).
+Vehicle weapon fire is bound to primary-hand Trigger.
+
+The "alternative vehicle controls" preset changes vehicle Accelerate and Brake to primary-hand Trigger and off-hand Trigger, respectively.
+Vehicle weapon fire is bound to primary-hand B (or Y).  
+
+You can use the Controller Bindings menu to move vehicle accelerate/brake anywhere you like.
+However, you'll want to keep in mind that binding *either* Accelerate or Brake vehicle options will un-bind *both* from your movement stick up/down.
 So you'll need to assign Accelerate *and* Brake options.
 
-(image: bindings-accelerate)
+![Bindings Accelerate](/assets/images/controls/Bindings-Accelerate.jpg)
 
 Left-handed players: SteamVR is not aware of the in-game changes that swap your primary hand from right to left hand. 
 Thus, if you want to put Accelerate on your right hand trigger, you'll need to assign it to the *left* hand trigger in SteamVR.
