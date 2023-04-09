@@ -23,7 +23,7 @@ title: "Manual"
 ---
 
 The standard Easy, Medium, and Hard options are available.  
-Players may want to keep in mind that due to the VR controls and interactions the game will *feel* much more difficult than the base game, and adjust their desired difficulty accordingly.
+Players may want to keep in mind that due to the VR controls and interactions the game will *feel* much more difficult than the base game, due to changes like manual reloading, and adjust their desired difficulty accordingly.
 
 <br />
 
@@ -35,8 +35,9 @@ A laser pointer can be enabled to make aiming weapons easier. Enabling this opti
 
 ### Quick Reload
 
-This option is available to simplify the reloading process. (See the [Controls section](#reloading) for more detail on the default manual reloading procedure.)  
-When Quick Reload is enabled, the player can press the Eject Magazine button then drop their weapon hand to their waist, pointed down to the ground. After a moment, the weapon will automatically reload the relevant ammo. Any unspent ammo in the previous magazine will be automatically recovered.
+This option is available to simplify the reloading process. When Quick Reload is enabled, the player can press the Eject Magazine button then drop their weapon hand to their waist, pointed down to the ground. After a moment, the weapon will automatically reload the relevant ammo. Any unspent ammo in the previous magazine will be automatically recovered.
+
+(See the [Controls section](#reloading) for details on the default manual reloading procedure.)  
 
 <br />
 
@@ -54,7 +55,8 @@ The controls are fully customizable via SteamVR's controller bindings menu. Belo
 
 *Half-Life 2: VR Mod* aims to support both right- and left-handed players. If you change the primary hand, all controls will be swapped accordingly.  
 For example, if you enable left-handed mode, then you will hold weapons in your left hand and move with the right stick.
-If you still want movement to be on the left stick, you will have to customize the SteamVR controller bindings (or use a community-made shared preset).
+
+If you don't like the default control bindings or options, you can [use the SteamVR Controller Bindings menu to customize your own setup](https://halflife2vr.com/howto/#re-binding-controls-in-steamvr). You can make you own changes, or or use a community-made shared preset.
 
 **The guide below will assume that the right hand is the primary hand and the left hand the off hand.**
 
@@ -97,7 +99,7 @@ A Teleport movement option is available in the Options - Controls menu. You can 
 On land, teleport targeting should mostly work as expected. You may need to point upwards a little to "jump" onto obstacles, and you need to point downwards if you want to drop from greater heights. Note that you also need to crouch (either in real life or with the crouch toggle key) to teleport into vents and other places with limited vertical space.  
 In water, you can teleport in any direction. Point downwards to dive into the water, and upwards to return to the surface. Point upwards towards land to get out of the water.  
 For ladders, stand at a slight distance in front of them and point the teleport up or down towards the ladder. An arrow will light up and show you which direction you are going.  
-Please understand that selecting teleport movement will *not* eliminate any and all artificial movement in the game. Due to the game's design, the player is ultimately subject to events from the physics engine. Some enemies can push or even launch you back, and you will slide on certain terrain, so please be prepared for that.
+Please understand that selecting teleport movement will *not* eliminate any and all artificial movement in the game. Due to the game's design, the player is ultimately subject to events from the physics engine. Some enemies can push or even launch you back, and you will slide on certain terrain, so be prepared for that.
 
 <br />
 
@@ -235,8 +237,7 @@ Use the "Vehicle weapon aim" option to change this from main hand to head or off
 
 To exit the vehicle, press the off-hand controller A button.
 
-**The team is aware controlling the acceleration and steering of vehicles with the same stick isn't ideal.**
-Unfortunately, this is difficult to change.
+**Alternative vehicle controls** are available for players that prefer Accelerate on right Trigger and Brake on left Trigger. (Firing the vehicle weapon has been moved to the primary-hand B button.) To use these, you'll need to [modify your bindings in SteamVR](https://halflife2vr.com/howto/#re-binding-controls-in-steamvr). You can use the official preset with "alternative vehicle controls" or your can manually modify these controls yourself.
 
 <br />
 
@@ -259,28 +260,25 @@ While moving, the borders of your screen will be blackened, reducing your field 
 
 ### Seated mode
 
-This mode fixes Gordon's in-game height to match the base game regardless of the player's headset position.
-
+This mode fixes Gordon's in-game height to match the base game regardless of the player's headset position.  
 To properly utilize this feature, enable it in the Options menu, then use the "recalibrate view" button on the pause menu.
 
 <br />
 
 ### Vehicle mode
 
-By default, "fixed horizon" is enabled. This allows your view to move with the vehicle, but disables any view rolling.
-(This means you can be moved around, but you always remain upright.)
+By default, "fixed horizon" is enabled. This allows your view to move with the vehicle, but disables any view rolling. (This means you can be moved around, but you always remain upright.)
 
 The "no comfort" mode is available for roller coaster enthusiasts. Do not use this unless you've got an iron stomach.
 
-The "decoupled camera" option allows you to turn the camera independently from the vehicle's orientation with your primary-hand stick, whereas the off-hand stick still accelerates and turns the vehicle. The movement stick is directional.
+The "decoupled camera" option enables artificial turning while in vehicles, allowing you to turn the camera independently from the vehicle's orientation with the primary-hand stick, and control the vehicl with the off-hand stick. The movement stick is directional.
 
-The "3rd person camera" changes the vehicle rides to a 3rd person camera perspective.
-In this mode, the camera follows the vehicle at a distance and is not directly subjected to the vehicle's rapid movements and turns, which should reduce motion sickness dramatically. The movement stick is directional.
+The "3rd person camera" changes the vehicle rides to a 3rd person camera perspective. In this mode, the camera follows the vehicle at a distance and is not directly subjected to the vehicle's rapid movements and turns, which should reduce motion sickness dramatically. The movement stick is directional.
 
-The "Teleporting camera" is another 3rd person camera option. The vehicles still move freely, but your camera does not - instead, it teleports in regular intervals to a third-person view just behind the vehicle. This is designed to help the most motion-sickness prone users.
+The "Teleporting camera" is another 3rd person camera option. The vehicles still move freely, but your camera does not - instead, it teleports in regular intervals to a third-person view just behind the vehicle. This is a somewhat experimental mode, and the most motion sickness prone users may prefer to use the following option:
 
-In the future, we may implement an additional mode where the vehicle rides are put on a virtual 2D screen in front of the user, so that everyone has a chance to get through the vehicle sections in the game.
-(This mode would of course be less immersive than the current ones, as it would remove any 3D effect from the experience.)
+The "projected 2D screen" mode moves the entire view to a floating screen in front of the user, and removes all 3D effects, essentially returning the experience to the flat version of Half-Life 2. (The view returns to normal first-person VR when exiting the vehicle.)  
+This is the least immersive option, but it's extremely effective as a comfort mode, so it should ensure everyone has a chance to get through the vehicle sections in the game.
 
 <br />
 
@@ -302,42 +300,38 @@ Players uncomfortable with the standard world scale can adjust it to be larger o
 
 ---
 
-HL2VR's overall performance relies *heavily* on your CPU's single-thread performance. Users with older or low-end CPUs may have a harder than expected time running at their target resolution and framerate.
-Due to engine limitations, it cannot be optimized like modern games. (And, of course, higher framerate targets will have higher requirements.)
+HL2VR's overall performance relies *heavily* on your CPU's single-thread performance. **Due to engine limitations, HL2VR cannot be optimized like modern games.** Users with older or low-end CPUs may have a harder than expected time running at their target resolution and framerate. (And, of course, higher framerate targets will have higher requirements.)
 
 There are also a small handful of area in the game that still cause CPU bottlenecks, regardless of hardware. (Though the *really* problematic areas are few and far between, and typically quite short.)
 
 ###### CPU requirements
 
 Users should aim to have *at least* a mid-range Intel 6th gen or Ryzen 2000 series CPU.
-At least mid-range Intel 8th gen or Ryzen 3000 are recommended, and mid-range Intel 10th gen or Ryzen 5000 are ideal.
+At least mid-range Intel 8th gen or Ryzen 3000 are recommended, and mid-range Intel 10th gen or Ryzen 5000 or newer are ideal.
 *Generally* speaking, low-end models in most CPU generations may still struggle due to lower clock speeds (particularly on older architectures).
 
 Water reflections can be disabled in the options menu, but it has a fairly minimal performance impact. Users with old/slow CPUs will benefit more from disabling this option.
 
 ###### GPU requirements
 
-On the GPU side, it is notably more demanding than the base HL2, but it is still a game from 2004. We have had very few complaints about GPU requirements. :-)
+On the GPU side, it is notably more demanding than the base HL2, but they are still games from 2004-2007. We have had very few complaints about GPU requirements. :-)
 
 Users with GPU headroom to spare may consider cranking up their render resolution in SteamVR to produce a slightly crisper image.  
 MSAA is also available for anti-aliasing. This can be taxing on your GPU, especially when combined with supersampling, so set accordingly. **4x** is a good compromise.
 
-Users with at least GTX 1060 6GB, GTX 1660, or RX 580 performance on this "GPU hierarchy" list should have little trouble with performance at default resolution:  
+Users with at least GTX 1060 6GB, GTX 1660, or RX 580 performance at 1440 on this "GPU hierarchy" list should have little trouble with performance at default resolution:  
 https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html
 
 <br />
 
 ---
 
-# Developer options
+# Console window and Developer options
 
 ---
 
-To enable the console, open the Options menu and select the console button in the bottom left corner.
+To enable the console, open the Options menu and select the console button in the bottom-left corner.
 
-To enable the developer menu, add '-vrdev' to the launch options in Steam. This will enable a special
-developer panel in the options menu where you can jump to any map, give yourself any weapon, and a number of
-other options and cheats.
+To enable the developer menu, add *-vrdev* to the launch options in Steam. This will enable the Developer tab in the Options menu, with which you can jump to any map, give yourself any weapon, and a number of other options and cheats. Enabling the Developer menu does not count as a cheat, but there are many options within it that are most certainly cheats.
 
-*Note*: Using '-console' or '-dev' will prevent the main menu from showing in the headset! You
-have to actually load into a level first before you will get anything to show in your HMD.
+*Note*: Using *-console* or *-dev* will prevent the main menu from showing in the headset! You have to actually load into a level first before you will get anything to show in your HMD. There isn't any real reason to use these options over *-vrdev*.
