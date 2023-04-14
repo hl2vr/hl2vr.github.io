@@ -4,16 +4,15 @@ title: "How-To"
 ---
 
 This page contains a few brief guides on how to accomplish things that aren't specific to HL2VR itself (such as changes to Steam or SteamVR settings).
-Generally speaking, this means **the SourceVR Mod Team doesn't have control over how these things work.**
-This is only meant to be helpful!
+Generally speaking, this means **the SourceVR Mod Team doesn't have control over how these things work.** This is only meant to be helpful!
 
 <br />
 
 | Table of Contents  |
 | ------------- |
-| [Beta Branches](#beta-branches)  |
-| [Re-Binding Controls in SteamVR](#re-binding-controls-in-steamvr)  |
-| [Copying Bindings Across Game Titles](#copying-bindings-across-game-titles)  |
+| [Opting into beta branches](#beta-branches)  |
+| [Re-binding controls in SteamVR](#re-binding-controls-in-steamvr)  |
+| [Copying bindings across game titles](#copying-bindings-across-game-titles)  |
 
 
 <br />
@@ -28,9 +27,11 @@ Branches, also known as Betas, are specific builds of a Steam app that has been 
 To switch to a custom branch in the Steam client, right-click on the game from your Steam Library and select "Properties". Among the available tabs will be the "Betas" tab.
 On this tab, you'll find a dropdown menu with these available options under "Select the beta you would like to opt into":
 
+<div align="center">
+
 ![Steam Betas](/assets/images/controls/SteamBetas.jpg)
 
-<br />
+</div>
 
 **None** - The default branch, intended for stable releases. Recommended for most users.
 
@@ -53,16 +54,22 @@ Editing controls for HL2VR is done via SteamVR's built-in Controller Bindings me
 
 HL2VR, HL2VR Episode 1, and HL2VR Episode 2 are each considered separate titles, and changes to one do not carry over to the others.
 
+<div align="center">
+
 ![Bindings Edit](/assets/images/controls/Bindings-Edit.jpg)
 
-<br />
+</div>
 
 ### Official presets
 
 HL2VR offers two default control presets. The only difference between them is how vehicles control.
 
+<div align="center">
+
 ![Bindings Official](/assets/images/controls/Bindings-Official_small.jpg)
 
+</div>
+  
 The "alternative vehicle controls" preset moves the vehicle Accelerate and Brake off the stick and onto the two Triggers.
 For more details, see: [Vehicle Accelerate/Brake](#vehicle-acceleratebrake)
 
@@ -79,7 +86,11 @@ They can be used, or edited, just like Official presets.
 
 If none of the Official or Community bindings presets work for you, you can edit the SteamVR controller bindings to adjust controls to your liking.
 
+<div align="center">
+
 ![Bindings personalize](/assets/images/controls/Bindings-personalize.jpg)
+
+</div>
 
 Details on how to use SteamVR Controller Bindings is outside the scope of this page, but if you're unfamiliar with it you can find plenty of help through Google or the Steam community.
 
@@ -97,7 +108,11 @@ You can use the Controller Bindings menu to move vehicle accelerate/brake anywhe
 However, you'll want to keep in mind that binding *either* Accelerate or Brake vehicle options will un-bind *both* from your movement stick up/down.
 So you'll need to assign Accelerate *and* Brake options.
 
+<div align="center">
+
 ![Bindings Accelerate](/assets/images/controls/Bindings-Accelerate.jpg)
+
+</div>
 
 Left-handed players: SteamVR is not aware of the in-game changes that swap your primary hand from right to left hand. 
 Thus, if you want to put Accelerate on your right hand trigger, you'll need to assign it to the *left* hand trigger in SteamVR.
@@ -115,11 +130,16 @@ Steam considers Half-Life 2 VR Mod, HL2VR Episode One, and HL2VR Episode Two as 
 Your custom bindings are stored in *My Documents\steamvr\input*  
 The binds have a name of *steam.app.*[App ID]*_*[Controller]*.json*. (For example, HL2VR Oculus bindings file would use *steam.app.658920_oculus_touch.json*)
 
+<div align="center">
+
+| Game  | App ID |
+| :----: | :----: |
+| Half-Life 2 VR Mod  | 658920  |
+| HL2VR Episode One  | 2177750  |
+| HL2VR Episode Two  | 2177760  |
+
+</div>
+
 1. Make a copy a copy of the file corresponding to the game you've already customized.  
 2. Rename it to use the new App ID.
 3. Open and edit the new copy and change the "app_key" to reflect the new App ID. (For example, *steam.app.2177750* )
-
-Here are the relevant App IDs:  
-Half-Life 2 VR Mod: 658920  
-HL2 VR Mod Episode One: 2177750  
-HL2 VR Mod Episode Two: 2177760
