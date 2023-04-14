@@ -13,6 +13,7 @@ This is only meant to be helpful!
 | ------------- |
 | [Beta Branches](#beta-branches)  |
 | [Re-Binding Controls in SteamVR](#re-binding-controls-in-steamvr)  |
+| [Copying Bindings Across Game Titles](#copying-bindings-across-game-titles)  |
 
 
 <br />
@@ -109,9 +110,10 @@ Thus, if you want to put Accelerate on your right hand trigger, you'll need to a
 
 ---
 
-Steam considers Half-Life 2 VR Mod, HL2VR Episode One, and HL2VR Episode Two as separate titles (just like the flat versions). Thus, your SteamVR bindings do not automatically carry over from one to the other. So if you've changed your bindings from the defaults, you'll need to manually copy them over to the other titles:
+Steam considers Half-Life 2 VR Mod, HL2VR Episode One, and HL2VR Episode Two as separate titles (just like the flat versions). Thus, your SteamVR bindings do not automatically carry over from one to the other. So if you've changed your bindings from the defaults, and want the others to use the same, you'll need to manually copy them over to the other titles.
 
-Your custom bindings are stored in *My Documents\steamvr\input*. The binds have a file name of *steam.app.*[App ID]*_*[Controller]*.json*. (For example, HL2VR Oculus bindings file would use *steam.app.658920_oculus_touch.json*)
+Your custom bindings are stored in *My Documents\steamvr\input*  
+The binds have a name of *steam.app.*[App ID]*_*[Controller]*.json*. (For example, HL2VR Oculus bindings file would use *steam.app.658920_oculus_touch.json*)
 
 1. Make a copy a copy of the file corresponding to the game you've already customized.  
 2. Rename it to use the new App ID.
