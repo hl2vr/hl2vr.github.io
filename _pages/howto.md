@@ -100,3 +100,24 @@ So you'll need to assign Accelerate *and* Brake options.
 
 Left-handed players: SteamVR is not aware of the in-game changes that swap your primary hand from right to left hand. 
 Thus, if you want to put Accelerate on your right hand trigger, you'll need to assign it to the *left* hand trigger in SteamVR.
+
+<br />
+
+---
+
+# Copying Bindings Across Game Titles
+
+---
+
+Steam considers Half-Life 2 VR Mod, HL2VR Episode One, and HL2VR Episode Two as separate titles (just like the flat versions). Thus, your SteamVR bindings do not automatically carry over from one to the other. So if you've changed your bindings from the defaults, you'll need to manually copy them over to the other titles:
+
+Your custom bindings are stored in *My Documents\steamvr\input*. The binds have a file name of *steam.app.*[App ID]*_*[Controller]*.json*. (For example, HL2VR Oculus bindings file would use *steam.app.658920_oculus_touch.json*)
+
+1. Make a copy a copy of the file corresponding to the game you've already customized.  
+2. Rename it to use the new App ID.
+3. Open and edit the new copy and change the "app_key" to reflect the new App ID. (For example, *steam.app.2177750* )
+
+Here are the relevant App IDs:  
+Half-Life 2 VR Mod: 658920  
+HL2 VR Mod Episode One: 2177750  
+HL2 VR Mod Episode Two: 2177760
