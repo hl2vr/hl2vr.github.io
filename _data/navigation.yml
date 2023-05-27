@@ -5,6 +5,8 @@ main:
     url: /news/
   - title: "FAQ"
     url: /faq/
+  - title: "Manual"
+    url: /manual/
   - title: "Help"
     url: /help/
   - title: "About"
