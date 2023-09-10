@@ -25,6 +25,7 @@ to the public.
 * AugustCoder (Programming)
 * HigherFlyer (Programming)
 * Markyparky (Programming)
+* qwertylesh (Graphics)
 
 ## Additional contributors
 
