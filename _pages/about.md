@@ -64,3 +64,8 @@ You can come and hang out with us on the [Flat2VR Discord](http://flat2vr.com). 
 own Subreddit [/r/hlvr](https://reddit.com/r/hlvr/) and our own [Steam community](https://steamcommunity.com/app/658920).
 
 You can also contact us at [team@halflife2vr.com](mailto: team@halflife2vr.com).
+
+# Legal notices
+
+- [Site notices](https://frydrych.org/contact/) / [Impressum](https://frydrych.org/impressum/)
+- [Data protection declaration](https://frydrych.org/data_protection) / [Datenschutzerklärung](https://frydrych.org/datenschutz)
