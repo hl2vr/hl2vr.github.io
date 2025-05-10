@@ -96,11 +96,11 @@ Portal 1 is the only other Valve title that is a viable option right now for mul
 
 ### Will Episode 1 and 2 be supported?
 
-The Episodes are being released as separate titles, similar to the standard Half-Life 2 and Episode 1/2 titles.
+The Episodes are listed as separate titles, similar to the standard Half-Life 2 and Episode 1/2 titles.
 
 Episode 1 launched on March 17th, 2023. You can find it here on Steam: [Half-Life 2: VR Mod - Episode 1](https://store.steampowered.com/app/2177750/HalfLife_2_VR_Mod__Episode_One/)  
 
-Episode 2's release date is planned for April 2023. Please wishlist it here on Steam: [Half-Life 2: VR Mod - Episode 2](https://store.steampowered.com/app/2177760/HalfLife_2_VR_Mod__Episode_Two/) - this helps boost its visibility!
+Episode 2 launched on April 6, 2023. You can find it here on Steam: [Half-Life 2: VR Mod - Episode 2](https://store.steampowered.com/app/2177760/HalfLife_2_VR_Mod__Episode_Two/)
 
 <br />
 
