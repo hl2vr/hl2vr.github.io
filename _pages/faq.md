@@ -100,7 +100,7 @@ The Episodes are listed as separate titles, similar to the standard Half-Life 2 
 
 Episode 1 launched on March 17th, 2023. You can find it here on Steam: [Half-Life 2: VR Mod - Episode 1](https://store.steampowered.com/app/2177750/HalfLife_2_VR_Mod__Episode_One/)  
 
-Episode 2 launched on April 6, 2023. You can find it here on Steam: [Half-Life 2: VR Mod - Episode 2](https://store.steampowered.com/app/2177760/HalfLife_2_VR_Mod__Episode_Two/)
+Episode 2 launched on April 6th, 2023. You can find it here on Steam: [Half-Life 2: VR Mod - Episode 2](https://store.steampowered.com/app/2177760/HalfLife_2_VR_Mod__Episode_Two/)
 
 <br />
 
