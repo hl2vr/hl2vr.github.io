@@ -53,6 +53,12 @@ We've also seen cases where it takes a bit of time after purchasing Half-Life 2 
 
 If you are still facing issues, we recommend reaching out to the Steam support as these issues are out of our control.
 
+### Episode 2 doesn't launch, can't find game executable
+
+Episode 2 gets installed into a folder called "Half-Life 2 VR 2177760", and refuses to launch due to not being able to find the game executable
+
+This is a Steam bug we cannot fix. The recommended workaround is to uninstall all 3 mods, then re-install only Episode 2 VRy. It should then install everything into the correct folder. You can reinstall HL2 VR and Ep1 VR afterwards.
+
 <br />
 
 ---
